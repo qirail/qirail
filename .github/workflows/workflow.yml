@@ -20,15 +20,10 @@ jobs:
       - name: Install and build
         run: npm install && npm run build
 
-      # - name: Deploy
-      #   uses: JamesIves/github-pages-deploy-action@4.1.1
-      #   with:
-      #     branch: gh-pages
-      #     folder: build
-
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          deploy_key: ${{secrets.PERSONAL_ACCESS_TOKEN}}
-          publish_dir: ./build
-          cname: qirail.cmcvellore.edu.in
+          branch: gh-pages
+          folder: build
+          clean-exclude: |
+            CNAME
