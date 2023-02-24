@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/qirail/static/css/main.c84c30da.css",
+    "main.js": "/qirail/static/js/main.aab1a7af.js",
+    "static/media/labImage.png": "/qirail/static/media/labImage.96e32b3a0c50ddfec74e.png",
+    "static/media/neenu.jpg": "/qirail/static/media/neenu.4d9e790f1513d67ac945.jpg",
+    "static/media/arvind.jpg": "/qirail/static/media/arvind.bdab178699c4c4015cea.jpg",
+    "static/media/hannah.jpg": "/qirail/static/media/hannah.4efb525de936db4f9ca7.jpg",
+    "static/media/ari_farewell.jpg": "/qirail/static/media/ari_farewell.bd95b963f7aaf19e6214.jpg",
+    "static/media/thomas.jpeg": "/qirail/static/media/thomas.32a142d447a5bfda34a9.jpeg",
+    "static/media/mgru.jpeg": "/qirail/static/media/mgru.a3a6a6026fa7930a2082.jpeg",
+    "static/media/arun.jpg": "/qirail/static/media/arun.98b224589728640d3ecc.jpg",
+    "static/media/simon.jpg": "/qirail/static/media/simon.3bb1fac84d4d2fa1c83c.jpg",
+    "static/media/devkumar.png": "/qirail/static/media/devkumar.915d84849f4607531dea.png",
+    "static/media/manu.jpg": "/qirail/static/media/manu.7e70368bbc861db5dc52.jpg",
+    "static/media/sathya.jpg": "/qirail/static/media/sathya.309ed69cdb23efa337e8.jpg",
+    "static/media/amit.jpg": "/qirail/static/media/amit.fa746ea9d7dfb0a08e24.jpg",
+    "static/media/rajesh.png": "/qirail/static/media/rajesh.e0e9fae17b903aa6be5e.png",
+    "static/media/maastro2.jpeg": "/qirail/static/media/maastro2.77bf38df60e559742a64.jpeg",
+    "static/media/jeba.png": "/qirail/static/media/jeba.07c71a03f6c906c46657.png",
+    "static/media/amal.jpg": "/qirail/static/media/amal.1b6c5d13031c99dc26a2.jpg",
+    "static/media/balu.jpg": "/qirail/static/media/balu.af7d7c1f7f86aa286e77.jpg",
+    "static/media/justin.jpg": "/qirail/static/media/justin.76d7600d53e4c026a9a9.jpg",
+    "static/media/sharon.jpeg": "/qirail/static/media/sharon.cc289159108a8c6e2ead.jpeg",
+    "static/media/maastro1.jpeg": "/qirail/static/media/maastro1.9fa564c14d2c30d15740.jpeg",
+    "static/media/cmc.png": "/qirail/static/media/cmc.82700b34c9172feb1ed4.png",
+    "static/media/ari.jpg": "/qirail/static/media/ari.e6907b5c2f28bb85d238.jpg",
+    "static/media/joy.jpg": "/qirail/static/media/joy.d29b48c68b2d75c59f80.jpg",
+    "static/media/abhijit.jpg": "/qirail/static/media/abhijit.99e6c11001489c6604dd.jpg",
+    "static/media/geetha.jpg": "/qirail/static/media/geetha.76a66bda4b0275da2022.jpg",
+    "static/media/idair.png": "/qirail/static/media/idair.367ca654b1bfc60f28fe.png",
+    "static/media/wellcome_w.png": "/qirail/static/media/wellcome_w.67da9fa6237042385fce.png",
+    "static/media/doodle.svg": "/qirail/static/media/doodle.46309f5d9cabd6ba410813c03d337e4b.svg",
+    "static/media/avatar.png": "/qirail/static/media/avatar.11954ea5715fa86177e1.png",
+    "index.html": "/qirail/index.html",
+    "main.c84c30da.css.map": "/qirail/static/css/main.c84c30da.css.map",
+    "main.aab1a7af.js.map": "/qirail/static/js/main.aab1a7af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c84c30da.css",
+    "static/js/main.aab1a7af.js"
+  ]
+}
