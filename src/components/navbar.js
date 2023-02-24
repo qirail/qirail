@@ -1,4 +1,28 @@
 import React, { useState } from 'react'
+import RoundNavigationButton from './RoundNavigationButton';
+const items = [
+  {
+      id:1,
+      url:"./",
+      label:"Home"
+  },
+  {
+      id:2,
+      url:"./",
+      label:"About"
+  },
+  {
+      id:3,
+      url:"./",
+      label:"Team"
+  },
+  {
+      id:4,
+      url:"./",
+      label:"no"
+  },
+]
+
 
 
 
@@ -22,6 +46,7 @@ function NavBar() {
 
   const [toggle, toggleNav] = useState(false);
   return (
+    
     <div className={`'' ${toggle ? 'bg-black w-full min-h-full fixed opacity-70 flex items-center justify-around' :
       'bg-black fixed rounded-full w-10 h-10 right-7 top-7 md:w-20 md:h-20 cursor-pointer animate-bounce'}`}
       onClick={() => toggleNav(!toggle)}>
@@ -40,9 +65,9 @@ function NavBar() {
           )
         }
       </ul>
-
+      <RoundNavigationButton items={items}/>
     </div>
   )
 }
 
-export default NavBar
+export default NavBar;

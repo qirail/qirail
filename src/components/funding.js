@@ -12,7 +12,7 @@ const Funding = () => {
 				{
 					fundingData.map((item, index) => (
 						<div key={index} className="flex flex-col p-6 justify-around items-center">
-							<img src={item.image} className="max-h-20  max-w-sm " />
+							<img src={item.image} alt="" className="max-h-20  max-w-sm " />
 							<p>{item.title}</p>
 						</div>
 

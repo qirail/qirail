@@ -1,6 +1,6 @@
 // import './App.css';
 import {
-  NavBar,
+  // NavBar,
   Hero,
   About,
   Team,
@@ -20,7 +20,7 @@ import {
 function App() {
   return (
     <div className="App scroll-smooth w-full">
-      <NavBar />
+      {/* <NavBar /> */}
       <Hero />
       <About />
       <Team />

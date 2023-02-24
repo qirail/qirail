@@ -23,5 +23,11 @@ export const milestonesData = [{
         // icon: Data,
 
     },
+    {
+        title: "NATIONAL SYMPOSIUM ON HEALTH DATA AND ARTIFICIAL INTELLIGENCE",
+        year: "2023",
+        // icon: Data,
+
+    },
 
 ];
