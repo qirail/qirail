@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+}
+
+
+.hover-underline {
+  @apply after:block  after:bg-amber-300 after:h-1 after:w-0 after:transition-all after:hover:w-full after:duration-1000 cursor-pointer;
+}
+
+
+::-webkit-scrollbar {
+    width: .60rem;
+    background-color: #000055;
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #000000;
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #005500;
+}
+

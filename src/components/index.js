@@ -1,0 +1,15 @@
+export { default as NavBar } from './navbar';
+export { default as Hero } from './hero';
+export { default as About } from './about';
+export { default as Team } from './team';
+export { default as WhatWeDo } from './whatwedo';
+export { default as Milestones } from './milestones';
+export { default as Collab } from './collab';
+export { default as Funding } from './funding';
+export { default as Alumni } from './alumni';
+export { default as Upcoming } from './upcoming';
+export { default as Gallery } from './gallery';
+export { default as Positions } from './positions';
+export { default as Contact } from './contact';
+export { default as Publications } from './publications';
+export { default as Footer } from './footer';
