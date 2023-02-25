@@ -5,7 +5,7 @@ const Alumni = () => {
   return (
 
 
-    <section className="py-6 dark:bg-gray-800 dark:text-gray-100">
+    <section id='alumni' className="py-6 dark:bg-gray-800 dark:text-gray-100">
       <div className="container flex flex-col items-center justify-center p-4 mx-auto space-y-8 sm:p-10">
         <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl">Former Members</h1>
         <p className="max-w-2xl text-center dark:text-gray-400"></p>

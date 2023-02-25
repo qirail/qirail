@@ -3,20 +3,20 @@ import doodle from "../assets/svg/doodle.svg"
 
 const Contact = () => {
   return (
-    <div className="md:divide-x grid max-w-screen-xl grid-cols-1 gap-8 px-8 py-16 mx-auto my-5 rounded-lg md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 dark:bg-gray-800 dark:text-gray-100">
+    <div id='contact' className="md:divide-x grid max-w-screen-xl grid-cols-1 gap-8 px-8 py-16 mx-auto my-5 rounded-lg md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 dark:bg-gray-800 dark:text-gray-100">
       <div className="flex flex-col justify-between">
         <div className="space-y-2">
           <h2 className="text-4xl font-bold leading-tight lg:text-5xl">Let's talk!</h2>
           <div className="dark:text-gray-400">We are always looking for motivated students interested in our research. 
           You can get involved through various means: 
-          internships, project staff positions, etc.</div>
+          internships, project staff positions, etc.,</div>
         </div>
         <img src={doodle} alt="" className="p-6 h-52 md:h-64" />
       </div>
       {/* <div className="py-6 md:py-0 md:px-6"> */}
       <div className="flex flex-col py-6 space-y-6 md:py-0 md:px-6 ng-untouched ng-pristine ng-valid">
         <h1 className="text-4xl font-bold">Address</h1>
-        <p className="pt-2 pb-4">Contact as for any queries ...</p>
+        <p className="pt-2 pb-4">Contact us for any queries ...</p>
         <div className="space-y-4">
           <p className="flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5 mr-2 sm:mr-6">

@@ -19,6 +19,7 @@ import sharon from "../assets/team/sharon.jpeg";
 import ari from "../assets/team/ari.jpg";
 import geetha from "../assets/team/geetha.jpg";
 import abhijit from "../assets/team/abhijit.jpg";
+import anitha from "../assets/team/anitha.jpg";
 
 export const mainTeam = {
     title: "Lead Team",
@@ -64,6 +65,13 @@ export const mainTeam = {
             image: sathya,
             about: "Research Team"
         },
+        {
+            name: "Sharon Gikku George",
+            about: "Research Coordinator",
+            department: "Radiation Oncology",
+            image: sharon,
+            designation: '',
+        }
     ],
 };
 
@@ -172,23 +180,24 @@ export const clinicalTeam = {
                     designation: 'Professor and Head',
                 },
                 {
-                    name: "Dr Anita Jasper",
+                    name: "Dr Anitha Jasper",
                     about: "",
                     department: "Radiology",
-                    image: avatar,
+                    image: anitha,
                     designation: 'Professor',
                 },
             ]
         },
         {
             title: "e-PROMS",
-            members: [{
-                    name: "Dr Balu Krishna Sasidharan",
-                    designation: "Professor",
-                    department: "Radiation Oncology",
-                    image: balu,
-                    about: "",
-                },
+            members: [
+                // {
+                //     name: "Dr Balu Krishna Sasidharan",
+                //     designation: "Professor",
+                //     department: "Radiation Oncology",
+                //     image: balu,
+                //     about: "",
+                // },
                 {
                     name: "Dr Joy John Mammen",
                     about: "",
@@ -203,20 +212,20 @@ export const clinicalTeam = {
                     image: arun,
                     designation: "Systems Manager",
                 },
-                {
-                    name: "Dr Hannah Mary Thomas T",
-                    designation: "Imaging Scientist",
-                    department: "Radiation Oncology",
-                    image: hannah,
-                    about: ""
-                },
-                {
-                    name: "Sharon Gikku George",
-                    about: "Research Coordinator",
-                    department: "Radiation Oncology",
-                    image: sharon,
-                    designation: '',
-                }
+                // {
+                //     name: "Dr Hannah Mary Thomas T",
+                //     designation: "Imaging Scientist",
+                //     department: "Radiation Oncology",
+                //     image: hannah,
+                //     about: ""
+                // },
+                // {
+                //     name: "Sharon Gikku George",
+                //     about: "Research Coordinator",
+                //     department: "Radiation Oncology",
+                //     image: sharon,
+                //     designation: '',
+                // }
             ]
         },
     ]

@@ -1,26 +1,10 @@
 import React from 'react'
+import img_1 from "../assets/images/labImage_1.png"
+// import img_2 from "../assets/images/labImage_2.png"
 
 const About = () => {
 	return (
-		// <div className='dark:bg-slate-500'>
-		//   <h1>About</h1>
-		//   <p>
-		// Quanititaive Imaging Research and Artificial Intelligence Lab
-		// was started in Radiation Oncology department in Christian Medical College (CMC), Vellore in 2020 .
-		// Our vision is to be a premier laboratory of artificial intelligence (AI),
-		// quantitative imaging and Radiation Oncology in India.
-		// We have embarked on this mission to address various important issues in the fields by
-		// combining our strengths in Radiation Oncology, Medical imaging,
-		// Bioinformatics, Data science, Biology, and Medicine.
-		//     The following are a few highlights of our current research focuses:<br />
-		//   </p>
-
-		//   <ul>
-		//     <li>Development of novel AI strategies for prognosis and outcome
-		//       prediction, disease classification and therapeutic guidance.</li>
-		//     <li>Benchmarking Electronic Patient Reported Outcomes for digital health technology.</li>
-		//   </ul>
-		// </div>
+		<div id = "about">
 		<section className="bg-white dark:bg-gray-900">
 			<div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
 				<div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
@@ -60,11 +44,14 @@ const About = () => {
 				
 				</div>
 				<div className="grid grid-cols-2 gap-4 mt-8">
-					<img className="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1" />
-					<img className="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2" />
+					{/* <img className="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1" />
+					<img className="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2" /> */}
+					<img className="w-full rounded-lg" src={img_1} alt="office content 1" />
+					{/* <img className="mt-4 w-full lg:mt-10 rounded-lg absolute mt-5" src={img_2} alt="office content 2" /> */}
 				</div>
 			</div>
 		</section>
+	</div>
 	)
 }
 

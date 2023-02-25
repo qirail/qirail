@@ -33,3 +33,6 @@
     background-color: #005500;
 }
 
+html {
+    scroll-behavior: smooth;
+}

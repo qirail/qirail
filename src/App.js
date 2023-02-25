@@ -9,7 +9,7 @@ import {
   Collab,
   Funding,
   Alumni,
-  // Upcoming,
+  Upcoming,
   Publications,
   Gallery,
   // Positions,
@@ -29,7 +29,7 @@ function App() {
       <Collab />
       <Funding />
       <Alumni />
-      {/* <Upcoming /> */}
+      <Upcoming />
       <Publications />
       <Gallery />
       {/* <Positions /> */}

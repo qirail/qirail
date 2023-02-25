@@ -4,7 +4,8 @@ import {itemData} from '../assets/gallery'
 const Gallery = () => {
   return (
       //  <div>Gallery</div>
-      <section className="py-6 dark:bg-gray-800 dark:text-gray-50">
+      <section id='gallery' className="py-6 dark:bg-gray-800 dark:text-gray-50">
+		<h1 className="text-4xl font-bold leading-none text-center sm:text-5xl mb-10">Gallery</h1>
 	<div className="container grid grid-cols-2 gap-4 p-4 mx-auto md:grid-cols-4">
 		{itemData.map((item) => (
 			<img alt="" className="w-max h-full col-span-2 row-span-2 rounded shadow-sm  dark:bg-gray-500 " src={item.img} />

@@ -4,7 +4,7 @@ import { fundingData } from '../data/funding.data';
 const Funding = () => {
 	return (
 		// <div>Funding</div>
-		<section className="p-6 dark:bg-gray-800 dark:text-gray-100">
+		<section id='funding' className="p-6 dark:bg-gray-800 dark:text-gray-100">
 			<div className="container p-4 mx-auto text-center">
 				<h2 className="text-4xl font-bold">Funding</h2>
 			</div>

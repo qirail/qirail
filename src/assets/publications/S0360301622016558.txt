@@ -1,0 +1,21 @@
+N. Jose, A.J. Varghese, H.M. Thomas, A. Irodi, J.C. Paul,
+M. Mathew, R. Isiah, S. John, H.F. Godson,
+T.B. Peace, S.P. Pavamani, D. Devadhas, B.K. Sasidharan,
+Can CBCT-Based Delta Radiomics Predict Normal Lung Toxicity during Thoracic Radiation?,
+International Journal of Radiation Oncology*Biology*Physics,
+Volume 114, Issue 3, Supplement,
+2022,
+Pages e118-e119,
+ISSN 0360-3016,
+https://doi.org/10.1016/j.ijrobp.2022.07.934.
+(https://www.sciencedirect.com/science/article/pii/S0360301622016558)
+
+
+Devakumar, D., Sunny, G., Sasidharan, B. K., Bowen, S. R., Nadaraj, A., Jeyseelan, L., Mathew, M., Irodi, A.,
+Isiah, R., Pavamani, S., John, S., & T Thomas, H. M. (2021). 
+Framework for Machine Learning of CT and PET Radiomics to Predict 
+Local Failure after Radiotherapy in Locally Advanced Head and Neck Cancers.
+Journal of medical physics, 46(3), 181–188. 
+https://doi.org/10.4103/jmp.JMP_6_21
+
+

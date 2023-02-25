@@ -15,7 +15,7 @@ const RoundNavigationButton = ({ items }) => {
   return (
     <>
       <button
-        className="fixed bottom-4 right-4 z-50 rounded-full bg-blue-500 text-white p-4"
+        className="fixed top-4 right-4 z-50 rounded-full bg-blue-500 text-white p-4"
         onClick={handleClick}
       >
         <svg
