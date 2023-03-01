@@ -206,9 +206,9 @@ export const clinicalTeam = {
                     designation: 'Professor',
                 },
                 {
-                    name: "Arun Zachariah",
+                    name: "Arun Zechariah",
                     about: "",
-                    department: "Pricipal's Office - Education Technology Unit",
+                    department: "Education Technology Unit",
                     image: arun,
                     designation: "Systems Manager",
                 },
