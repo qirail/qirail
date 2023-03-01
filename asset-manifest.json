@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d5c1115.css",
-    "main.js": "/static/js/main.9a989b42.js",
+    "main.css": "/static/css/main.e20efeb3.css",
+    "main.js": "/static/js/main.574cd83b.js",
     "static/media/neenu.jpg": "/static/media/neenu.4d9e790f1513d67ac945.jpg",
     "static/media/labImage_1.png": "/static/media/labImage_1.2ad40c45daeed6df5ed7.png",
     "static/media/arvind.jpg": "/static/media/arvind.bdab178699c4c4015cea.jpg",
@@ -14,7 +14,6 @@
     "static/media/ctcrop.mp4": "/static/media/ctcrop.d408a622cba071da87ae.mp4",
     "static/media/devkumar.png": "/static/media/devkumar.915d84849f4607531dea.png",
     "static/media/manu.jpg": "/static/media/manu.7e70368bbc861db5dc52.jpg",
-    "static/media/astro.jpg": "/static/media/astro.18e684f07f1d9a978fe4.jpg",
     "static/media/sathya.jpg": "/static/media/sathya.309ed69cdb23efa337e8.jpg",
     "static/media/amit.jpg": "/static/media/amit.fa746ea9d7dfb0a08e24.jpg",
     "static/media/rajesh.png": "/static/media/rajesh.e0e9fae17b903aa6be5e.png",
@@ -32,16 +31,15 @@
     "static/media/abhijit.jpg": "/static/media/abhijit.99e6c11001489c6604dd.jpg",
     "static/media/geetha.jpg": "/static/media/geetha.76a66bda4b0275da2022.jpg",
     "static/media/idair.png": "/static/media/idair.367ca654b1bfc60f28fe.png",
-    "static/media/wellcome_w.png": "/static/media/wellcome_w.67da9fa6237042385fce.png",
-    "static/media/jmp.png": "/static/media/jmp.2b3750023317f0eb763c.png",
+    "static/media/wellcome_r.png": "/static/media/wellcome_r.cb76bcd1c91cef5493f4.png",
     "static/media/doodle.svg": "/static/media/doodle.46309f5d9cabd6ba410813c03d337e4b.svg",
     "static/media/avatar.png": "/static/media/avatar.11954ea5715fa86177e1.png",
     "index.html": "/index.html",
-    "main.3d5c1115.css.map": "/static/css/main.3d5c1115.css.map",
-    "main.9a989b42.js.map": "/static/js/main.9a989b42.js.map"
+    "main.e20efeb3.css.map": "/static/css/main.e20efeb3.css.map",
+    "main.574cd83b.js.map": "/static/js/main.574cd83b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d5c1115.css",
-    "static/js/main.9a989b42.js"
+    "static/css/main.e20efeb3.css",
+    "static/js/main.574cd83b.js"
   ]
 }
