@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.bebc9533.css",
-    "main.js": "/static/js/main.b6055088.js",
+    "main.js": "/static/js/main.9cadd56c.js",
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
+    "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
     "static/media/rt1.jpg": "/static/media/rt1.28eff4e70cad45721820.jpg",
     "static/media/mgru.jpeg": "/static/media/mgru.8dbd0b12de72fc285a6e.jpeg",
+    "static/media/aisymposium.jpeg": "/static/media/aisymposium.513ec122b8609d21aeff.jpeg",
     "static/media/labImage_1.png": "/static/media/labImage_1.1ae41a64b2afc79eef18.png",
     "static/media/maastro1.jpeg": "/static/media/maastro1.245f39549986d504a421.jpeg",
     "static/media/rajesh.png": "/static/media/rajesh.b2718867c0599aa3bc4c.png",
@@ -41,10 +43,10 @@
     "static/media/avatar.png": "/static/media/avatar.6b8d453f06b15ad2de8a.png",
     "index.html": "/index.html",
     "main.bebc9533.css.map": "/static/css/main.bebc9533.css.map",
-    "main.b6055088.js.map": "/static/js/main.b6055088.js.map"
+    "main.9cadd56c.js.map": "/static/js/main.9cadd56c.js.map"
   },
   "entrypoints": [
     "static/css/main.bebc9533.css",
-    "static/js/main.b6055088.js"
+    "static/js/main.9cadd56c.js"
   ]
 }
