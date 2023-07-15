@@ -1,6 +1,7 @@
 import idair from "../assets/funding/idair.png";
 import cmc from "../assets/funding/cmc.png";
-import wellcome from "../assets/funding/wellcome_w.png";
+// import wellcome from "../assets/funding/wellcome_w.png";
+import wellcome from "../assets/funding/wellcome_r.png";
 
 export const fundingData = [{
     "title": "Early Career Fellowship 2020-24",

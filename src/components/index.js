@@ -8,7 +8,6 @@ export { default as Collab } from './collab';
 export { default as Funding } from './funding';
 export { default as Alumni } from './alumni';
 export { default as Upcoming } from './upcoming';
-export { default as Gallery } from './gallery';
 export { default as Positions } from './positions';
 export { default as Contact } from './contact';
 export { default as Publications } from './publications';

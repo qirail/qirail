@@ -1,6 +1,6 @@
 // import './App.css';
 import {
-  // NavBar,
+  NavBar,
   Hero,
   About,
   Team,
@@ -11,16 +11,15 @@ import {
   Alumni,
   Upcoming,
   Publications,
-  Gallery,
-  // Positions,
   Contact,
   Footer
 } from './components';
+import Gallery from "./gallery"
+
 
 function App() {
   return (
     <div className="App scroll-smooth w-full">
-      {/* <NavBar /> */}
       <Hero />
       <About />
       <Team />
@@ -35,9 +34,8 @@ function App() {
       {/* <Positions /> */}
       <Contact />
       <Footer />
-
+      <NavBar />
     </div>
-
   );
 }
 

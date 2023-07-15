@@ -4,8 +4,9 @@ const Upcoming = () => {
   return (
     <div id='upcoming'>
     <div className="dark:bg-gray-800 dark:text-gray-50">
-      <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl mb-10">Upcoming Events</h1>
-    <div className="container grid grid-cols-12 mx-auto">
+      <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl mb-10">Events</h1>
+    <div className="container grid grid-cols-1 mx-auto p-5">
+      
       <div className="flex flex-col justify-center col-span-12 align-middle bg-no-repeat bg-cover dark:bg-gray-700 lg:col-span-6 lg:h-auto">
         <div className="flex flex-col items-center p-8 py-12 text-center">
           <span>March 17th - 18th 2023</span>

@@ -60,10 +60,10 @@ const Footer = () => {
       </svg>
     </div> */}
     
-    <div className="h-8 flex justify-center"><img src={logo}  alt="logo" /></div>
+    <div className="h-20 flex justify-center"><img src={logo}  alt="logo" /></div>
 
     <p
-      className="text-2xl mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 dark:text-gray-400"
+      className="text-3xl mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 dark:text-gray-400"
     >
       Quantitative Imaging Research and Artificial Intelligence Lab.
     </p>
@@ -203,9 +203,9 @@ const Footer = () => {
 
     </ul>
     <div className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 dark:text-gray-400">
-
-    Develpoed By <a href='https://www.linkedin.com/in/amaljova/' rel="noreferrer" target="_blank" >Amal Joseph Varghese</a><br/>
     © 2023 QIRAIL. All rights reserved.
+    <br/>
+    <span className='text-xs text-gray-700 dark:text-gray-600'>Developed by <a href='https://www.linkedin.com/in/amaljova/' rel="noreferrer" target="_blank" className='text-sm hover-underline hover:text-blue-500'>Amal Joseph Varghese</a></span>
     </div>
   </div>
 </footer>

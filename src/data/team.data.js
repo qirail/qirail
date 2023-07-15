@@ -1,11 +1,11 @@
+// import avatar from "../assets/team/avatar.png";
 import simon from "../assets/team/simon.jpg";
 import balu from "../assets/team/balu.jpg";
 import hannah from "../assets/team/hannah.jpg";
-import avatar from "../assets/team/avatar.png";
 import jeba from "../assets/team/jeba.png";
 import rajesh from "../assets/team/rajesh.png";
 import thomas from "../assets/team/thomas.jpeg";
-import devkumar from "../assets/team/devkumar.png";
+import devakumar from "../assets/team/devakumar.jpg";
 import sathya from "../assets/team/sathya.jpg";
 import amal from "../assets/team/amal.jpg";
 import arun from "../assets/team/arun.jpg";
@@ -20,57 +20,70 @@ import ari from "../assets/team/ari.jpg";
 import geetha from "../assets/team/geetha.jpg";
 import abhijit from "../assets/team/abhijit.jpg";
 import anitha from "../assets/team/anitha.jpg";
+import aparna from "../assets/team/aparna.jpeg";
+import rajiv from "../assets/team/rajiv.jpg";
+import finle from "../assets/team/finle.jpg";
+import Joel from "../assets/team/Joel.jpg";
+import timothy from "../assets/team/timothy.JPG";
+import julia from "../assets/team/julia.jpeg";
 
 export const mainTeam = {
     title: "Lead Team",
     members: [{
             name: "Dr Simon Pavamani",
-            designation: "Professor & Head",
+            designation: "Lab Head",
             department: "Radiation Oncology",
             image: simon,
-            about: "Lab Head",
+            about: "Professor",
         },
         {
             name: "Dr Balu Krishna Sasidharan",
-            designation: "Professor",
+            designation: "Clinical Lead in Radiomics and AI",
             department: "Radiation Oncology",
             image: balu,
-            about: "Clinical Lead in Radiomics and AI",
+            about: "Professor",
         },
         {
             name: "Dr Hannah Mary Thomas T",
-            designation: "Imaging Scientist",
+            designation: "Research Team Lead",
             department: "Radiation Oncology",
             image: hannah,
-            about: "Research Team"
+            about: "Imaging Scientist"
         },
         {
             name: "Dr Devakumar D",
-            designation: "Professor",
+            designation: "Computational Analysis Lead",
             department: "Nuclear Medicine",
-            image: devkumar,
-            about: "Computational Analysis Lead",
+            image: devakumar,
+            about: "Professor",
         },
         {
             name: "Amal Joseph Varghese",
-            designation: "Research Assistant",
+            designation: "Project Assistant",
             department: "Radiation Oncology",
             image: amal,
-            about: "Research Team"
+            about: ""
         },
         {
             name: "Sathya A",
-            designation: "Research Assistant",
+            designation: "Research Coordinator",
             department: "Radiation Oncology",
             image: sathya,
-            about: "Research Team"
+            about: ""
         },
         {
             name: "Sharon Gikku George",
-            about: "Research Coordinator",
+            about: "",
             department: "Radiation Oncology",
             image: sharon,
-            designation: '',
+            designation: 'Research Coordinator',
+        },
+        {
+            name: "Dr Julia Priyadarshini Rao",
+            about: "",
+            department: "Radiation Oncology",
+            image: julia,
+            designation: 'Clinical Research Fellow',
         }
     ],
 };
@@ -97,14 +110,14 @@ export const clinicalTeam = {
                     name: "Dr Aparna Irodi",
                     about: "",
                     department: "Radiodiagnosis",
-                    image: avatar,
+                    image: aparna,
                     designation: 'Professor',
                 },
                 {
                     name: "Dr Rajiv Michael",
                     about: "",
                     department: "Head & Neck Surgery",
-                    image: avatar,
+                    image: rajiv,
                     designation: 'Professor',
                 },
                 {
@@ -121,6 +134,27 @@ export const clinicalTeam = {
                     image: justin,
                     designation: 'Assistant Professor',
                 },
+                {
+                    name: "Dr Timothy Peace Balasingh",
+                    // about: "Associate professor in Radiation physics",
+                    department: "Radiation Oncology",
+                    image: timothy,
+                    designation: 'Chief Medical Physicist',
+                },
+                {
+                    name: "Dr Henry Finlay Godson",
+                    // about: "Associate professor in Radiation physics",
+                    department: "Radiation Oncology",
+                    image: finle,
+                    designation: 'Radiation Safety Officer',
+                },
+                {
+                    name: "Mr. T Joel",
+                    about: "",
+                    department: "Radiation Oncology",
+                    image: Joel,
+                    designation: 'Therapeutic Radiographer',
+                },
 
             ]
         },
@@ -131,7 +165,7 @@ export const clinicalTeam = {
                     about: "",
                     department: "Radiation Oncology",
                     image: thomas,
-                    designation: 'Professor',
+                    designation: 'Professor & HOD',
                 },
                 {
                     name: "Dr Jeba Karunya",
@@ -191,13 +225,6 @@ export const clinicalTeam = {
         {
             title: "e-PROMS",
             members: [
-                // {
-                //     name: "Dr Balu Krishna Sasidharan",
-                //     designation: "Professor",
-                //     department: "Radiation Oncology",
-                //     image: balu,
-                //     about: "",
-                // },
                 {
                     name: "Dr Joy John Mammen",
                     about: "",
@@ -212,20 +239,6 @@ export const clinicalTeam = {
                     image: arun,
                     designation: "Systems Manager",
                 },
-                // {
-                //     name: "Dr Hannah Mary Thomas T",
-                //     designation: "Imaging Scientist",
-                //     department: "Radiation Oncology",
-                //     image: hannah,
-                //     about: ""
-                // },
-                // {
-                //     name: "Sharon Gikku George",
-                //     about: "Research Coordinator",
-                //     department: "Radiation Oncology",
-                //     image: sharon,
-                //     designation: '',
-                // }
             ]
         },
     ]

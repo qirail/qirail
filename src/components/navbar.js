@@ -1,73 +1,73 @@
-import React, { useState } from 'react'
+import React from 'react'
 import RoundNavigationButton from './RoundNavigationButton';
 const items = [
   {
-      id:1,
-      url:"./",
-      label:"Home"
+    id: 1,
+    url: "#home",
+    label: "Home"
   },
   {
-      id:2,
-      url:"./",
-      label:"About"
+    id: 2,
+    url: "#about",
+    label: "About"
   },
   {
-      id:3,
-      url:"./",
-      label:"Team"
+    id: 3,
+    url: "#team",
+    label: "Team"
   },
   {
-      id:4,
-      url:"./",
-      label:"no"
+    id: 4,
+    url: "#whatwedo",
+    label: "What We Do"
+  },
+  {
+    id: 5,
+    url: "#milestones",
+    label: "Milestones"
+  },
+  {
+    id: 6,
+    url: "#collab",
+    label: "Collab"
+  },
+  {
+    id: 7,
+    url: "#funding",
+    label: "Funding"
+  },
+  {
+    id: 8,
+    url: "#alumni",
+    label: "Alumni"
+  },
+  {
+    id: 9,
+    url: "#upcoming",
+    // label: "Upcoming"
+    label: "Events"
+  },
+  {
+    id: 10,
+    url: "#publications",
+    label: "Publications"
+  },
+  {
+    id: 11,
+    url: "#gallery",
+    label: "Gallery"
+  },
+  {
+    id: 12,
+    url: "#contact",
+    label: "Contact"
   },
 ]
 
-
-
-
-function NavBar() {
-
-  const sections = [
-    "Home",
-    "About",
-    "Team",
-    "WhatWeDo",
-    "Milestones",
-    "Collab",
-    "Funding",
-    "Alumni",
-    // "Upcoming",
-    "Publication",
-    "Gallery",
-    // "Positions",
-    "Contact"
-  ];
-
-  const [toggle, toggleNav] = useState(false);
+const NavBar = () => {
   return (
-    
-    <div className={`'' ${toggle ? 'bg-black w-full min-h-full fixed opacity-70 flex items-center justify-around' :
-      'bg-black fixed rounded-full w-10 h-10 right-7 top-7 md:w-20 md:h-20 cursor-pointer animate-bounce'}`}
-      onClick={() => toggleNav(!toggle)}>
-
-      {/* default */}
-      <div className={`${toggle ? 'hidden' : 'text-white text-xl absolute inset-0 flex items-center justify-center'}`}>
-        #
-      </div>
-
-      {/* if clicked */}
-      <ul className={`${toggle ? 'text-white text-2xl flex-col justify-around md:text-5xl md:grid grid-cols-2 gap-8 lg:grid-cols-3' : 'hidden'}`}>
-
-        {
-          sections.map(
-            item => <li className="hover-underline m-2"> {item}</li>
-          )
-        }
-      </ul>
-      <RoundNavigationButton items={items}/>
-    </div>
+      <RoundNavigationButton items={items} />
   )
 }
 
-export default NavBar;
+export default NavBar

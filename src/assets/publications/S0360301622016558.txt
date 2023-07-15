@@ -1,21 +1,17 @@
-N. Jose, A.J. Varghese, H.M. Thomas, A. Irodi, J.C. Paul,
-M. Mathew, R. Isiah, S. John, H.F. Godson,
-T.B. Peace, S.P. Pavamani, D. Devadhas, B.K. Sasidharan,
-Can CBCT-Based Delta Radiomics Predict Normal Lung Toxicity during Thoracic Radiation?,
-International Journal of Radiation Oncology*Biology*Physics,
-Volume 114, Issue 3, Supplement,
+Stephen R. Bowen, Daniel S. Hippe, Hannah M. Thomas, Balukrishna Sasidharan, Paul D. Lampe, Christina S. Baik, Keith D. Eaton, Sylvia Lee, Renato G. Martins, Rafael Santana-Davila, Delphine L. Chen, Paul E. Kinahan, Robert S. Miyaoka, Hubert J. Vesselle, A. McGarry Houghton, Ramesh Rengan, Jing Zeng,
+Prognostic Value of Early Fluorodeoxyglucose-Positron Emission Tomography Response Imaging and Peripheral Immunologic Biomarkers: Substudy of a Phase II Trial of Risk-Adaptive Chemoradiation for Unresectable Non-Small Cell Lung Cancer,
+Advances in Radiation Oncology,
+Volume 7, Issue 2,
 2022,
-Pages e118-e119,
-ISSN 0360-3016,
-https://doi.org/10.1016/j.ijrobp.2022.07.934.
-(https://www.sciencedirect.com/science/article/pii/S0360301622016558)
-
-
-Devakumar, D., Sunny, G., Sasidharan, B. K., Bowen, S. R., Nadaraj, A., Jeyseelan, L., Mathew, M., Irodi, A.,
-Isiah, R., Pavamani, S., John, S., & T Thomas, H. M. (2021). 
-Framework for Machine Learning of CT and PET Radiomics to Predict 
-Local Failure after Radiotherapy in Locally Advanced Head and Neck Cancers.
-Journal of medical physics, 46(3), 181–188. 
-https://doi.org/10.4103/jmp.JMP_6_21
-
-
+100857,
+ISSN 2452-1094,
+https://doi.org/10.1016/j.adro.2021.100857.
+(https://www.sciencedirect.com/science/article/pii/S2452109421002153)
+Abstract: Purpose
+We sought to examine the prognostic value of fluorodeoxyglucose-positron emission tomography (PET) imaging during chemoradiation for unresectable non-small cell lung cancer for survival and hypothesized that tumor PET response is correlated with peripheral T-cell function.
+Methods and Materials
+Forty-five patients with American Joint Committee on Cancer version 7 stage IIB-IIIB non-small cell lung cancer enrolled in a phase II trial and received platinum-doublet chemotherapy concurrent with 6 weeks of radiation (NCT02773238). Fluorodeoxyglucose-PET was performed before treatment start and after 24 Gy of radiation (week 3). PET response status was prospectively defined by multifactorial radiologic interpretation. PET responders received 60 Gy in 30 fractions, while nonresponders received concomitant boosts to 74 Gy in 30 fractions. Peripheral blood was drawn synchronously with PET imaging, from which germline DNA sequencing, T-cell receptor sequencing, and plasma cytokine analysis were performed.
+Results
+Median follow-up was 18.8 months, 1-year overall survival (OS) 82%, 1-year progression-free survival 53%, and 1-year locoregional control 88%. Higher midtreatment PET total lesion glycolysis was detrimental to OS (1 year 87% vs 63%, P < .001), progression-free survival (1 year 60% vs 26%, P = .044), and locoregional control (1 year 94% vs 65%, P = .012), even after adjustment for clinical/treatment factors. Twenty-nine of 45 patients (64%) were classified as PET responders based on a priori definition. Higher tumor programmed death-ligand 1 expression was correlated with response on PET (P = .017). Higher T-cell receptor richness and clone distribution slope were associated with improved OS (P = .018-0.035); clone distribution slope was correlated with PET response (P = .031).
+Conclusions
+Midchemoradiation PET imaging is prognostic for survival; PET response may be linked to tumor and peripheral T-cell biomarkers.
