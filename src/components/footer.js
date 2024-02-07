@@ -203,7 +203,7 @@ const Footer = () => {
 
     </ul>
     <div className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 dark:text-gray-400">
-    © 2023 QIRAIL. All rights reserved.
+    © 2024 QIRAIL. All rights reserved.
     <br/>
     <span className='text-xs text-gray-700 dark:text-gray-600'>Developed by <a href='https://www.linkedin.com/in/amaljova/' rel="noreferrer" target="_blank" className='text-sm hover-underline hover:text-blue-500'>Amal Joseph Varghese</a></span>
     </div>
