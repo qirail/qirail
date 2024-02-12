@@ -5,6 +5,7 @@ import mgru from "./photos/mgru.jpeg";
 import rt1 from "./photos/rt1.jpg";
 import aisymposium from "./photos/aisymposium.jpeg";
 import outing from "./photos/outing.jpeg";
+import indo_dutch_workshop from "./photos/cadc_pune.jpg";
 
 const itemData = [
   // {
@@ -34,6 +35,10 @@ const itemData = [
   {
     img: outing,
     title: 'Lab Outing',
+  },
+  {
+    img: indo_dutch_workshop,
+    title: 'Indo-Dutch workshop @ C-DAC Pune',
   },
 
 ];
