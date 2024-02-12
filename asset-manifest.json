@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.25cf8e9e.css",
-    "main.js": "/static/js/main.4ef6bea2.js",
+    "main.js": "/static/js/main.719a42b8.js",
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
     "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
     "static/media/rt1.jpg": "/static/media/rt1.28eff4e70cad45721820.jpg",
     "static/media/mgru.jpeg": "/static/media/mgru.8dbd0b12de72fc285a6e.jpeg",
     "static/media/aisymposium.jpeg": "/static/media/aisymposium.513ec122b8609d21aeff.jpeg",
     "static/media/labImage_1.png": "/static/media/labImage_1.1ae41a64b2afc79eef18.png",
+    "static/media/cadc_pune.jpg": "/static/media/cadc_pune.99c4fe38bda32e265458.jpg",
     "static/media/maastro1.jpeg": "/static/media/maastro1.245f39549986d504a421.jpeg",
     "static/media/rajesh.png": "/static/media/rajesh.b2718867c0599aa3bc4c.png",
     "static/media/sathya.jpg": "/static/media/sathya.e993dac203b4ddec9f6e.jpg",
@@ -44,10 +45,10 @@
     "static/media/avatar.png": "/static/media/avatar.6b8d453f06b15ad2de8a.png",
     "index.html": "/index.html",
     "main.25cf8e9e.css.map": "/static/css/main.25cf8e9e.css.map",
-    "main.4ef6bea2.js.map": "/static/js/main.4ef6bea2.js.map"
+    "main.719a42b8.js.map": "/static/js/main.719a42b8.js.map"
   },
   "entrypoints": [
     "static/css/main.25cf8e9e.css",
-    "static/js/main.4ef6bea2.js"
+    "static/js/main.719a42b8.js"
   ]
 }
