@@ -72,6 +72,15 @@ export const publications =[
         thumbnail:"https://pub.mdpi-res.com/img/journals/applsci-logo.png?8600e93ff98dbf14",
         year:"2023"
     },
+    {
+        num:10,
+        title:"Can pre-treatment MRI and CT radiomics improve prediction of complete pathological response in locally advanced rectal cancer following neoadjuvant treatment?",
+        authors:"Jeba Karunya Reddy, A Sathya, Amal Joseph Varghese, Arvind Sathyamurthy, Neenu Oliver John, Anuradha Chandramohan, Ashish Singh, Anjana Joel, Rohin Mittal, Dipti Masih, Kripa Varghese, Thomas Samuel Ram, Hannah Mary T Thomas",
+        journal:"This is a preprint",
+        link:"https://doi.org/10.21203/rs.3.rs-3756695/v1",
+        thumbnail:"",
+        year:"2024"
+    },
     // {
     //     num:8,
     //     title:"",
