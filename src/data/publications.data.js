@@ -81,8 +81,17 @@ export const publications =[
         thumbnail:"",
         year:"2024"
     },
+    {
+        num:11,
+        title:"Is radiomics a useful addition to magnetic resonance imaging in the preoperative classification of PitNETs?",
+        authors:"Sathya A, Abhijit Goyal-Honavar, Ari G Chacko, Anitha Jasper, Geeta Chacko, Devadhas Devakumar, Joshua Anand Seelam, Balu Krishna Sasidharan, Simon P Pavamani & Hannah Mary T Thomas",
+        journal:"Acta Neurochirurgica",
+        link:"https://doi.org/10.1007/s00701-024-05977-4",
+        thumbnail:"https://media.springernature.com/w120/springer-static/cover/journal/701.jpg?as=webp",
+        year:"2024"
+    },
     // {
-    //     num:8,
+    //     num:12,8
     //     title:"",
     //     authors:"",
     //     journal:"",
