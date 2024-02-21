@@ -1,5 +1,5 @@
 import React from 'react'
-import img_1 from "../assets/images/labImage_1.png"
+// import img_1 from "../assets/images/labImage_1.png"
 // import img_2 from "../assets/images/labImage_2.png"
 
 const About = () => {
@@ -35,7 +35,8 @@ const About = () => {
 				</ul>	
 				</div>
 				<div className="p-5">
-					<img className="w-full rounded-lg" src={img_1} alt="office content 1" />
+				<iframe className="border-none w-full rounded-lg" src="https://lumalabs.ai/embed/4e052a04-fb77-45c9-bf3e-b93ee2526c80?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=false&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false" width="800" height="500" frameborder="0" title="luma embed"></iframe>
+					{/* <img className="w-full rounded-lg" src={img_1} alt="office content 1" /> */}
 				</div>
 			</div>
 		</section>
