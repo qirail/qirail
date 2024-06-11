@@ -74,7 +74,7 @@ export const mainTeam = {
             designation: 'Research Coordinator',
         },
         {
-            name: "Anjana Chnadran",
+            name: "Anjana Chandran",
             designation: "Project Coordinator",
             department: "Radiation Oncology",
             image: anjana,
