@@ -6,7 +6,6 @@ import jeba from "../assets/team/jeba.png";
 import rajesh from "../assets/team/rajesh.png";
 import thomas from "../assets/team/thomas.jpeg";
 import devakumar from "../assets/team/devakumar.jpg";
-import sathya from "../assets/team/sathya.jpg";
 import amal from "../assets/team/amal.jpeg";
 import arun from "../assets/team/arun.jpg";
 import amit from "../assets/team/amit.jpg";
@@ -25,7 +24,6 @@ import rajiv from "../assets/team/rajiv.jpg";
 import finle from "../assets/team/finle.jpg";
 import Joel from "../assets/team/Joel.jpg";
 import timothy from "../assets/team/timothy.JPG";
-import julia from "../assets/team/julia.jpeg";
 import anjana from "../assets/team/avatar.png";
 
 
@@ -235,25 +233,6 @@ export const clinicalTeam = {
                     image: arun,
                     designation: "Systems Manager",
                 },
-            ]
-        },
-        {
-            title: "Former Members",
-            members: [
-                {
-                    name: "Sathya A",
-                    designation: "Research Coordinator",
-                    department: "Radiation Oncology",
-                    image: sathya,
-                    about: "Biomedical Engineer"
-                },
-                {
-                    name: "Dr Julia Priyadarshini Rao",
-                    about: "",
-                    department: "Radiation Oncology",
-                    image: julia,
-                    designation: 'Clinical Research Fellow',
-                }
             ]
         },
     ]

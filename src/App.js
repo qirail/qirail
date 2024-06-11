@@ -23,11 +23,11 @@ function App() {
       <Hero />
       <About />
       <Team />
+      <Alumni />
       <WhatWeDo />
       <Milestones />
       <Collab />
       <Funding />
-      <Alumni />
       <Upcoming />
       <Publications />
       <Gallery />
