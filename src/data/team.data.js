@@ -7,7 +7,7 @@ import rajesh from "../assets/team/rajesh.png";
 import thomas from "../assets/team/thomas.jpeg";
 import devakumar from "../assets/team/devakumar.jpg";
 import sathya from "../assets/team/sathya.jpg";
-import amal from "../assets/team/amal.jpg";
+import amal from "../assets/team/amal.jpeg";
 import arun from "../assets/team/arun.jpg";
 import amit from "../assets/team/amit.jpg";
 import neenu from "../assets/team/neenu.jpg";
@@ -26,6 +26,8 @@ import finle from "../assets/team/finle.jpg";
 import Joel from "../assets/team/Joel.jpg";
 import timothy from "../assets/team/timothy.JPG";
 import julia from "../assets/team/julia.jpeg";
+import anjana from "../assets/team/avatar.png";
+
 
 export const mainTeam = {
     title: "Lead Team",
@@ -62,29 +64,23 @@ export const mainTeam = {
             designation: "Project Assistant",
             department: "Radiation Oncology",
             image: amal,
-            about: ""
-        },
-        {
-            name: "Sathya A",
-            designation: "Research Coordinator",
-            department: "Radiation Oncology",
-            image: sathya,
-            about: ""
+            about: "Bioinformatician"
         },
         {
             name: "Sharon Gikku George",
-            about: "",
+            about: "Physiotherapist",
             department: "Radiation Oncology",
             image: sharon,
             designation: 'Research Coordinator',
         },
         {
-            name: "Dr Julia Priyadarshini Rao",
-            about: "",
+            name: "Anjana Chnadran",
+            designation: "Project Coordinator",
             department: "Radiation Oncology",
-            image: julia,
-            designation: 'Clinical Research Fellow',
-        }
+            image: anjana,
+            about: "Clinical Nutritionist"
+        },
+        
     ],
 };
 
@@ -239,6 +235,25 @@ export const clinicalTeam = {
                     image: arun,
                     designation: "Systems Manager",
                 },
+            ]
+        },
+        {
+            title: "Former Members",
+            members: [
+                {
+                    name: "Sathya A",
+                    designation: "Research Coordinator",
+                    department: "Radiation Oncology",
+                    image: sathya,
+                    about: "Biomedical Engineer"
+                },
+                {
+                    name: "Dr Julia Priyadarshini Rao",
+                    about: "",
+                    department: "Radiation Oncology",
+                    image: julia,
+                    designation: 'Clinical Research Fellow',
+                }
             ]
         },
     ]

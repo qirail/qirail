@@ -90,8 +90,17 @@ export const publications =[
         thumbnail:"https://media.springernature.com/w120/springer-static/cover/journal/701.jpg?as=webp",
         year:"2024"
     },
+    {
+        num:12,
+        title:"Can Pretreatment MRI and Planning CT Radiomics Improve Prediction of Complete Pathological Response in Locally Advanced Rectal Cancer Following Neoadjuvant Treatment?",
+        authors:"Jeba Karunya Ramireddy, A. Sathya, Balu Krishna Sasidharan, Amal Joseph Varghese, Arvind Sathyamurthy, Neenu Oliver John, Anuradha Chandramohan, Ashish Singh, Anjana Joel, Rohin Mittal, Dipti Masih, Kripa Varghese, Grace Rebekah, Thomas Samuel Ram & Hannah Mary T. Thomas",
+        journal:"Journal of Gastrointestinal Cancer",
+        link:"https://doi.org/10.1007/s12029-024-01073-z",
+        thumbnail:"https://media.springernature.com/w120/springer-static/cover-hires/journal/12029?as=webp",
+        year:"2024"
+    },
     // {
-    //     num:12,8
+    //     num:13,
     //     title:"",
     //     authors:"",
     //     journal:"",
