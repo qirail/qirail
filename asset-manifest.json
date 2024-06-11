@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4f3bff6e.css",
-    "main.js": "/static/js/main.acf15645.js",
+    "main.js": "/static/js/main.a64e6a25.js",
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
     "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
     "static/media/rt1.jpg": "/static/media/rt1.28eff4e70cad45721820.jpg",
     "static/media/mgru.jpeg": "/static/media/mgru.8dbd0b12de72fc285a6e.jpeg",
     "static/media/aisymposium.jpeg": "/static/media/aisymposium.513ec122b8609d21aeff.jpeg",
     "static/media/cadc_pune.jpg": "/static/media/cadc_pune.99c4fe38bda32e265458.jpg",
+    "static/media/amal.jpeg": "/static/media/amal.a34c4524da19dccf5a7e.jpeg",
     "static/media/maastro1.jpeg": "/static/media/maastro1.245f39549986d504a421.jpeg",
     "static/media/rajesh.png": "/static/media/rajesh.b2718867c0599aa3bc4c.png",
     "static/media/sathya.jpg": "/static/media/sathya.e993dac203b4ddec9f6e.jpg",
@@ -22,7 +23,6 @@
     "static/media/timothy.JPG": "/static/media/timothy.cf3097007c8e92049c2c.JPG",
     "static/media/finle.jpg": "/static/media/finle.130a137aefa4889ec5ab.jpg",
     "static/media/simon.jpg": "/static/media/simon.41147658eeb378aa8871.jpg",
-    "static/media/amal.jpg": "/static/media/amal.c746b614e015cc57d564.jpg",
     "static/media/jeba.png": "/static/media/jeba.07c71a03f6c906c46657.png",
     "static/media/arun.jpg": "/static/media/arun.b3c84666eff21bbf6cab.jpg",
     "static/media/Joel.jpg": "/static/media/Joel.bb601d64f59c4169e312.jpg",
@@ -44,10 +44,10 @@
     "static/media/avatar.png": "/static/media/avatar.6b8d453f06b15ad2de8a.png",
     "index.html": "/index.html",
     "main.4f3bff6e.css.map": "/static/css/main.4f3bff6e.css.map",
-    "main.acf15645.js.map": "/static/js/main.acf15645.js.map"
+    "main.a64e6a25.js.map": "/static/js/main.a64e6a25.js.map"
   },
   "entrypoints": [
     "static/css/main.4f3bff6e.css",
-    "static/js/main.acf15645.js"
+    "static/js/main.a64e6a25.js"
   ]
 }
