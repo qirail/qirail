@@ -24,7 +24,7 @@ import rajiv from "../assets/team/rajiv.jpg";
 import finle from "../assets/team/finle.jpg";
 import Joel from "../assets/team/Joel.jpg";
 import timothy from "../assets/team/timothy.JPG";
-import anjana from "../assets/team/avatar.png";
+import anjana from "../assets/team/anjana.jpeg";
 
 
 export const mainTeam = {
@@ -73,10 +73,10 @@ export const mainTeam = {
         },
         {
             name: "Anjana Chandran",
-            designation: "Project Coordinator",
+            designation: "Research Coordinator",
             department: "Radiation Oncology",
             image: anjana,
-            about: "Clinical Nutritionist"
+            about: "Consultant Nutritionist"
         },
         
     ],
