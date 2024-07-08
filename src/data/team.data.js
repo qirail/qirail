@@ -25,6 +25,7 @@ import finle from "../assets/team/finle.jpg";
 import Joel from "../assets/team/Joel.jpg";
 import timothy from "../assets/team/timothy.JPG";
 import anjana from "../assets/team/anjana.jpeg";
+import praveen from "../assets/team/praveen.png";
 
 
 export const mainTeam = {
@@ -77,6 +78,13 @@ export const mainTeam = {
             department: "Radiation Oncology",
             image: anjana,
             about: "Consultant Nutritionist"
+        },
+        {
+            name: "Praveenraj C",
+            designation: "Project Technical Fellow",
+            department: "Head and Neck Surgery, Unit 2",
+            image: praveen,
+            about: "Statistician"
         },
         
     ],
