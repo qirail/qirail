@@ -45,4 +45,13 @@ export const collabdata = [{
         ]
 
     },
+    {
+        institution: "National Institute of Technology Karnataka, Surathkal",
+        people: [{
+                name: "Dr Jeny Rajan, Ph.D.",
+                department:"Assistant Professor, Dept. of Computer Science and Engineering"
+            },
+        ]
+
+    },
 ];

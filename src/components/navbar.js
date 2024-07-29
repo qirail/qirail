@@ -21,11 +21,11 @@ const items = [
     url: "#whatwedo",
     label: "What We Do"
   },
-  {
-    id: 5,
-    url: "#milestones",
-    label: "Milestones"
-  },
+  // {
+  //   id: 5,
+  //   url: "#milestones",
+  //   label: "Milestones"
+  // },
   {
     id: 6,
     url: "#collab",

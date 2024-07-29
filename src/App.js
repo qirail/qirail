@@ -5,7 +5,7 @@ import {
   About,
   Team,
   WhatWeDo,
-  Milestones,
+  // Milestones,
   Collab,
   Funding,
   Alumni,
@@ -25,7 +25,7 @@ function App() {
       <Team />
       <Alumni />
       <WhatWeDo />
-      <Milestones />
+      {/* <Milestones /> */}
       <Collab />
       <Funding />
       <Upcoming />
