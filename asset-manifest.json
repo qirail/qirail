@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f3bff6e.css",
-    "main.js": "/static/js/main.0f5fa1a9.js",
+    "main.css": "/static/css/main.8079f891.css",
+    "main.js": "/static/js/main.d1b7dc6b.js",
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
     "static/media/praveen.png": "/static/media/praveen.bb4f4ba92004d270f9a1.png",
     "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
@@ -9,7 +9,6 @@
     "static/media/mgru.jpeg": "/static/media/mgru.8dbd0b12de72fc285a6e.jpeg",
     "static/media/aisymposium.jpeg": "/static/media/aisymposium.513ec122b8609d21aeff.jpeg",
     "static/media/cadc_pune.jpg": "/static/media/cadc_pune.99c4fe38bda32e265458.jpg",
-    "static/media/amal.jpeg": "/static/media/amal.a34c4524da19dccf5a7e.jpeg",
     "static/media/maastro1.jpeg": "/static/media/maastro1.245f39549986d504a421.jpeg",
     "static/media/rajesh.png": "/static/media/rajesh.b2718867c0599aa3bc4c.png",
     "static/media/sathya.jpg": "/static/media/sathya.e993dac203b4ddec9f6e.jpg",
@@ -39,17 +38,20 @@
     "static/media/anjana.jpeg": "/static/media/anjana.ad545ecbafabe7892604.jpeg",
     "static/media/aparna.jpeg": "/static/media/aparna.f90da8f1d3fd6cd747cc.jpeg",
     "static/media/cmc.png": "/static/media/cmc.82700b34c9172feb1ed4.png",
+    "static/media/amal.jpg": "/static/media/amal.f3b8fd90f303b1c134c9.jpg",
     "static/media/joy.jpg": "/static/media/joy.d29b48c68b2d75c59f80.jpg",
+    "static/media/varian.jpg": "/static/media/varian.e54f8ce5ec0548180d5f.jpg",
     "static/media/idair.png": "/static/media/idair.367ca654b1bfc60f28fe.png",
+    "static/media/icmr.png": "/static/media/icmr.e3072070fa5ed1068176.png",
     "static/media/wellcome_r.png": "/static/media/wellcome_r.cb76bcd1c91cef5493f4.png",
     "static/media/doodle.svg": "/static/media/doodle.46309f5d9cabd6ba410813c03d337e4b.svg",
     "static/media/avatar.png": "/static/media/avatar.6b8d453f06b15ad2de8a.png",
     "index.html": "/index.html",
-    "main.4f3bff6e.css.map": "/static/css/main.4f3bff6e.css.map",
-    "main.0f5fa1a9.js.map": "/static/js/main.0f5fa1a9.js.map"
+    "main.8079f891.css.map": "/static/css/main.8079f891.css.map",
+    "main.d1b7dc6b.js.map": "/static/js/main.d1b7dc6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f3bff6e.css",
-    "static/js/main.0f5fa1a9.js"
+    "static/css/main.8079f891.css",
+    "static/js/main.d1b7dc6b.js"
   ]
 }
