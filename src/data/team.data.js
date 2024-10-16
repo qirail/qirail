@@ -6,7 +6,6 @@ import jeba from "../assets/team/jeba.png";
 import rajesh from "../assets/team/rajesh.png";
 import thomas from "../assets/team/thomas.jpeg";
 import devakumar from "../assets/team/devakumar.jpg";
-import amal from "../assets/team/amal.jpeg";
 import arun from "../assets/team/arun.jpg";
 import amit from "../assets/team/amit.jpg";
 import neenu from "../assets/team/neenu.jpg";
@@ -26,6 +25,8 @@ import Joel from "../assets/team/Joel.jpg";
 import timothy from "../assets/team/timothy.JPG";
 import anjana from "../assets/team/anjana.jpeg";
 import praveen from "../assets/team/praveen.png";
+import julia from "../assets/team/julia.jpeg";
+
 
 
 export const mainTeam = {
@@ -59,13 +60,6 @@ export const mainTeam = {
             about: "Professor",
         },
         {
-            name: "Amal Joseph Varghese",
-            designation: "Project Assistant",
-            department: "Radiation Oncology",
-            image: amal,
-            about: "Bioinformatician"
-        },
-        {
             name: "Sharon Gikku George",
             about: "Physiotherapist",
             department: "Radiation Oncology",
@@ -85,6 +79,13 @@ export const mainTeam = {
             department: "Head and Neck Surgery, Unit 2",
             image: praveen,
             about: "Statistician"
+        },
+        {
+            name: "Dr Julia Priyadarshini Rao",
+            department: "Radiation Oncology",
+            image: julia,
+            designation: 'Clinical Research Fellow',
+            about:""
         },
         
     ],

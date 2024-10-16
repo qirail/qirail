@@ -54,4 +54,13 @@ export const collabdata = [{
         ]
 
     },
+    {
+        institution: "Centre for Development of Advanced Computing (C-DAC), Pune, India ",
+        people: [{
+                name: "Dr. Lakshmi Panat",
+                department:""
+            },
+        ]
+
+    },
 ];

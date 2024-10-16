@@ -9,7 +9,7 @@ const Alumni = () => {
       <div className="container flex flex-col items-center justify-center p-4 mx-auto space-y-8 sm:p-10">
         <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl">Former Members</h1>
         <p className="max-w-2xl text-center dark:text-gray-400"></p>
-        <div className="flex flex-row flex-wrap-reverse justify-center">
+        <div className="flex flex-row flex-wrap justify-center">
           {
             alumniData.map((alumni, indx) => (
               <div key={indx} className="flex flex-col justify-center m-8 text-center">
