@@ -3,8 +3,16 @@ import avatar from "../assets/team/avatar.png";
 
 import amal from "../assets/team/amal.jpg";
 import sathya from "../assets/team/sathya.jpg";
+import julia from "../assets/team/julia.jpeg";
+
 
 export const alumniData = [
+    {
+        name: "Dr Julia Priyadarshini Rao",
+        designation: 'Clinical Research Fellow',
+        from: "Radiation Oncology",
+        image: julia,
+    },
     {
         name: "Amal Joseph Varghese",
         designation: "Project Assistant",
@@ -40,5 +48,5 @@ export const alumniData = [
         designation: 'Intern',
         from: 'VIT University',
         image: avatar
-    },
+    }
 ]

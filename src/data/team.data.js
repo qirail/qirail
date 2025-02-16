@@ -25,7 +25,7 @@ import Joel from "../assets/team/Joel.jpg";
 import timothy from "../assets/team/timothy.JPG";
 import anjana from "../assets/team/anjana.jpeg";
 import praveen from "../assets/team/praveen.png";
-import julia from "../assets/team/julia.jpeg";
+import hassan from "../assets/team/hassan.jpeg";
 
 
 
@@ -81,11 +81,11 @@ export const mainTeam = {
             about: "Statistician"
         },
         {
-            name: "Dr Julia Priyadarshini Rao",
+            name: "Hasan Shaikh",
+            designation: "Project Assistant",
             department: "Radiation Oncology",
-            image: julia,
-            designation: 'Clinical Research Fellow',
-            about:""
+            image: hassan,
+            about: "M.Tech. Software Engineering"
         },
         
     ],

@@ -72,14 +72,23 @@ export const publications =[
         thumbnail:"https://pub.mdpi-res.com/img/journals/applsci-logo.png?8600e93ff98dbf14",
         year:"2023"
     },
+    // {
+    //     num:10,
+    //     title:"Can pre-treatment MRI and CT radiomics improve prediction of complete pathological response in locally advanced rectal cancer following neoadjuvant treatment?",
+    //     authors:"Jeba Karunya Reddy, A Sathya, Amal Joseph Varghese, Arvind Sathyamurthy, Neenu Oliver John, Anuradha Chandramohan, Ashish Singh, Anjana Joel, Rohin Mittal, Dipti Masih, Kripa Varghese, Thomas Samuel Ram, Hannah Mary T Thomas",
+    //     journal:"This is a preprint",
+    //     link:"https://doi.org/10.21203/rs.3.rs-3756695/v1",
+    //     thumbnail:"",
+    //     year:"2024"
+    // },
     {
         num:10,
-        title:"Can pre-treatment MRI and CT radiomics improve prediction of complete pathological response in locally advanced rectal cancer following neoadjuvant treatment?",
-        authors:"Jeba Karunya Reddy, A Sathya, Amal Joseph Varghese, Arvind Sathyamurthy, Neenu Oliver John, Anuradha Chandramohan, Ashish Singh, Anjana Joel, Rohin Mittal, Dipti Masih, Kripa Varghese, Thomas Samuel Ram, Hannah Mary T Thomas",
-        journal:"This is a preprint",
-        link:"https://doi.org/10.21203/rs.3.rs-3756695/v1",
-        thumbnail:"",
-        year:"2024"
+        title:"Teleradiology and technology innovations in radiology: status in India and its role in increasing access to primary health care",
+        authors:"Anuradha Chandramohan, Viswajit Krothapalli, Ann Augustin, Madhavi Kandagaddala, Hannah Mary Thomas, Thambu David Sudarsanam, Ammar Jagirdar, Shalini Govil, Arjun Kalyanpur",
+        journal:"The Lancet Regional Health - Southeast Asia",
+        link:"https://doi.org/10.1016/j.lansea.2023.100195",
+        thumbnail:"https://www.thelancet.com/cms/asset/42dacfd4-28e0-40cd-8f1d-faf2970b2884/cov200h.gif",
+        year:"2023"
     },
     {
         num:11,
