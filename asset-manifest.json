@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.8079f891.css",
-    "main.js": "/static/js/main.d1b7dc6b.js",
+    "main.css": "/static/css/main.43855617.css",
+    "main.js": "/static/js/main.dc1fb82e.js",
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
     "static/media/praveen.png": "/static/media/praveen.bb4f4ba92004d270f9a1.png",
     "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
     "static/media/rt1.jpg": "/static/media/rt1.28eff4e70cad45721820.jpg",
     "static/media/mgru.jpeg": "/static/media/mgru.8dbd0b12de72fc285a6e.jpeg",
     "static/media/aisymposium.jpeg": "/static/media/aisymposium.513ec122b8609d21aeff.jpeg",
+    "static/media/hassan.jpeg": "/static/media/hassan.9676c8da4a3aba2009ef.jpeg",
     "static/media/cadc_pune.jpg": "/static/media/cadc_pune.99c4fe38bda32e265458.jpg",
     "static/media/maastro1.jpeg": "/static/media/maastro1.245f39549986d504a421.jpeg",
     "static/media/rajesh.png": "/static/media/rajesh.b2718867c0599aa3bc4c.png",
@@ -47,11 +48,11 @@
     "static/media/doodle.svg": "/static/media/doodle.46309f5d9cabd6ba410813c03d337e4b.svg",
     "static/media/avatar.png": "/static/media/avatar.6b8d453f06b15ad2de8a.png",
     "index.html": "/index.html",
-    "main.8079f891.css.map": "/static/css/main.8079f891.css.map",
-    "main.d1b7dc6b.js.map": "/static/js/main.d1b7dc6b.js.map"
+    "main.43855617.css.map": "/static/css/main.43855617.css.map",
+    "main.dc1fb82e.js.map": "/static/js/main.dc1fb82e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8079f891.css",
-    "static/js/main.d1b7dc6b.js"
+    "static/css/main.43855617.css",
+    "static/js/main.dc1fb82e.js"
   ]
 }
