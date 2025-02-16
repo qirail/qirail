@@ -85,7 +85,7 @@ export const mainTeam = {
             designation: "Project Assistant",
             department: "Radiation Oncology",
             image: hassan,
-            about: "M.Tech. Software Engineering"
+            about: "Software Engineer"
         },
         
     ],
