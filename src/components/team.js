@@ -18,6 +18,8 @@ const Team = () => {
 								department={member.department}
 								src={member.image}
 								desig={member.designation}
+								email={member.email}
+								linkedin={member.linkedin}
 							/>
 						))
 					}

@@ -34,8 +34,10 @@ const Hero = () => {
             <p className="mt-6 mb-8 text-2xl sm:mb-12">Quantitative Imaging Research and
               <br className="hidden md:inline lg:hidden" /><span className="text-violet-400"> Artificial Intelligence</span> Lab.
             </p>
-            <p className="mt-6 mb-8 text-base sm:mb-12">Research group in the Radiation Oncology Department
-              <br className="hidden md:inline lg:hidden" /> @ Christian Medical College Vellore.
+            <p className="mt-6 mb-8 text-base sm:mb-12">An interdisciplinary research group anchored in Radiation Oncology, working with diverse teams
+              <br 
+              className="hidden md:inline lg:hidden" 
+              /> @ Christian Medical College Vellore.
             </p>
             <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4">
             {/* <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start"> */}
