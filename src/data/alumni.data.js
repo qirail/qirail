@@ -1,12 +1,10 @@
 // Don't modify structue, only add data.
-
-// import avatar from "../assets/team/avatar.png";
-import avatar2 from "../assets/team/qirail_logo.png";
-
+import avatar from "../assets/team/avatar.png";
 
 import amal from "../assets/team/amal.jpg";
+import sathya from "../assets/team/sathya.jpg";
 import julia from "../assets/team/julia.jpeg";
-import sharon from "../assets/team/sharon.jpeg";
+
 
 export const alumniData = [
     {
@@ -22,34 +20,33 @@ export const alumniData = [
         image: amal,
     },
     {
-        name: "Sharon Gikku George",
-        about: "Physiotherapist",
+        name: "Sathya A",
+        designation: "Research Coordinator",
         from: "Radiation Oncology",
-        image: sharon,
-        designation: 'Research Coordinator',
+        image: sathya
     },
     {
         name: 'Ramya Vepuri',
         designation: 'Project Assistant',
         from: 'Radiation Oncology',
-        image: avatar2
+        image: avatar
     },
     {
         name: 'Arathy Roy',
         designation: 'Intern',
         from: 'VIT University',
-        image: avatar2
+        image: avatar
     },
     {
         name: 'Vimal Nair',
         designation: 'Intern',
         from: 'VIT University',
-        image: avatar2
+        image: avatar
     },
     {
         name: 'Sreeram Sreekumar',
         designation: 'Intern',
         from: 'VIT University',
-        image: avatar2
+        image: avatar
     }
 ]

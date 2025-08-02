@@ -13,8 +13,7 @@ import manu from "../assets/team/manu.jpg";
 import arvind from "../assets/team/arvind.jpg";
 import justin from "../assets/team/justin.jpg";
 import joy from "../assets/team/joy.jpg";
-// import sathya from "../assets/team/sathya.jpg";
-import sathya2 from "../assets/team/sathya2.jpeg";
+import sharon from "../assets/team/sharon.jpeg";
 import ari from "../assets/team/ari.jpg";
 import geetha from "../assets/team/geetha.jpg";
 import abhijit from "../assets/team/abhijit.jpg";
@@ -27,7 +26,6 @@ import timothy from "../assets/team/timothy.JPG";
 import anjana from "../assets/team/anjana.jpeg";
 import praveen from "../assets/team/praveen.png";
 import hassan from "../assets/team/hassan.jpeg";
-import avatar2 from "../assets/team/qirail_logo.png";
 
 
 
@@ -39,8 +37,6 @@ export const mainTeam = {
             department: "Radiation Oncology",
             image: simon,
             about: "Professor",
-            email: "",
-            linkedin: "https://www.linkedin.com/in/simon-pavamani-467b9869/"
         },
         {
             name: "Dr Balu Krishna Sasidharan",
@@ -48,16 +44,13 @@ export const mainTeam = {
             department: "Radiation Oncology",
             image: balu,
             about: "Professor",
-            email: "",
-            linkedin: "https://www.linkedin.com/in/balukrishna-s/"
         },
         {
             name: "Dr Hannah Mary Thomas T",
             designation: "Research Team Lead",
             department: "Radiation Oncology",
             image: hannah,
-            about: "Imaging Scientist",
-            linkedin: "https://www.linkedin.com/in/hannah-mary-thomas-t-838a0113/"
+            about: "Imaging Scientist"
         },
         {
             name: "Dr Devakumar D",
@@ -65,62 +58,35 @@ export const mainTeam = {
             department: "Nuclear Medicine",
             image: devakumar,
             about: "Professor",
-            email: "",
-            linkedin: ""
         },
         {
-            name: "Sathya A",
-            designation: "Research Coordinator",
+            name: "Sharon Gikku George",
+            about: "Physiotherapist",
             department: "Radiation Oncology",
-            image: sathya2,
-            about: "Biomedical Engineer",
-            email: "sathya.a.inst@cmcvellore.ac.in",
-            linkedin: "https://www.linkedin.com/in/sathya-a-christopher/"
+            image: sharon,
+            designation: 'Research Coordinator',
         },
         {
             name: "Anjana Chandran",
             designation: "Research Coordinator",
             department: "Radiation Oncology",
             image: anjana,
-            about: "Consultant Nutritionist",
-            linkedin: "https://www.linkedin.com/in/anjana-chandran-989414236/"
+            about: "Consultant Nutritionist"
         },
         {
             name: "Praveenraj C",
             designation: "Project Technical Fellow",
             department: "Head and Neck Surgery, Unit 2",
             image: praveen,
-            about: "Statistician",
-            email: "",
-            linkedin: ""
+            about: "Statistician"
         },
         {
             name: "Hasan Shaikh",
             designation: "Project Assistant",
             department: "Radiation Oncology",
             image: hassan,
-            about: "Software Engineer",
-            email: "",
-            linkedin: "https://www.linkedin.com/in/hasann-shaikh/"
+            about: "Software Engineer"
         },
-        {
-            name: "Achsah Christine Godfred",
-            designation: "Clinical Psychologist",
-            department: "Radiation Oncology",
-            // about: ""
-            image: avatar2,
-            email: "",
-            linkedin: "https://www.linkedin.com/in/achsah-christine/",
-        },
-        {
-            name: "Vijay Shree G",
-            designation: "Social Worker",
-            department: "Radiation Oncology",
-            image: avatar2,
-            // about: "",
-            email: "",
-            linkedin: ""
-        }
         
     ],
 };
@@ -186,7 +152,7 @@ export const clinicalTeam = {
                     designation: 'Radiation Safety Officer',
                 },
                 {
-                    name: "Joel T",
+                    name: "Mr. T Joel",
                     about: "",
                     department: "Radiation Oncology",
                     image: Joel,
