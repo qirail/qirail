@@ -1,3 +1,4 @@
+import redj from "../assets/publications/redj.jpg";
 // add items in the list
 export const publications =[
     {
@@ -6,7 +7,7 @@ export const publications =[
         authors:"Devakumar, D., Sunny, G., Sasidharan, B. K., Bowen, S. R., Nadaraj, A., Jeyseelan, L., Mathew, M., Irodi, A., Isiah, R., Pavamani, S., John, S., & T Thomas, H. M.",
         journal:"Journal of Medical Physics",
         link:"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8491314/",
-        thumbnail: "https://images.journals.lww.com/jomp/XLargeThumb.00660230-202348010-00000.CV.jpeg",
+        thumbnail: "https://images.journals.lww.com/jomp/LargeRollover.00660230-202504000-00000.CV.jpeg",
         year:"2021"
     },
     {
@@ -51,7 +52,9 @@ export const publications =[
         authors:"Cassandra D Solomons, Ammu Anna Mathew, Karthikeyan V, Vivekanandan Shanmugasundaram, Hannah Mary Thomas, A Sathya, Jeyanth Rose",
         journal:"IEEE",
         link:"https://ieeexplore.ieee.org/document/9945025",
-        thumbnail:"https://ieeexplore.ieee.org/assets/img/ieee_logo_white.svg",
+        // thumbnail:"https://ieeexplore.ieee.org/assets/img/ieee_logo_white.svg",
+        // thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIJa3jgYfLleQDKJ9Guhao4zvimwiw_--Rw&s",
+        thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSki7YKgdaMbPqcJyCz3vAil7f0aaR0phVqOg&s",
         year:"2022"
     },
     {
@@ -108,6 +111,20 @@ export const publications =[
         thumbnail:"https://media.springernature.com/w120/springer-static/cover-hires/journal/12029?as=webp",
         year:"2024"
     },
+    {
+        num:13,
+        title:"Pragmatic Patient Choice-Driven Radical Treatment Approach (PRAGRAD) for Very Advanced Unresectable Oral Cavity Cancers",
+        authors:`Balu Krishna Sasidharan, Sharief K. SidhiquE, Jino Victor Wilson, Manu Mathew, Amit Jiwan Tirkey,
+                    Ashish Singh, Jenifer Jeba Sundararaj,Hannah Mary T Thomas, Swathi, Benny Rajendra Kuchipudi,
+                    Jerome Sunny, Anjana Joel, Annie Jacob, Vidya Konduru,
+                    Mansi Agarwal, Aparna Irodi, Jeyashanth Riju,Natarajan Ramalingam, Rajiv Michael,Rajesh Isiah,
+                    Anjana Chandran, Sharon Gikku George, Praveenraj, Andre Dekker,
+                    Leonard Wee,Frank Hoebers,and Simon P Pavamani`,
+        journal:"International Journal of Radiation Oncology*Biology*Physics",
+        link:"https://www.redjournal.org/article/S0360-3016(25)03906-9/fulltext",
+        thumbnail:redj,
+        year:"2025"
+    },
     // {
     //     num:13,
     //     title:"",
@@ -117,5 +134,4 @@ export const publications =[
     //     thumbnail:"",
     //     year:""
     // },
-
 ]

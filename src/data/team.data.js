@@ -66,7 +66,7 @@ export const mainTeam = {
             image: devakumar,
             about: "Professor",
             email: "",
-            linkedin: ""
+            linkedin: "https://www.linkedin.com/in/devakumar-devadhas-459b3019/?originalSubdomain=in"
         },
         {
             name: "Sathya A",
@@ -92,7 +92,7 @@ export const mainTeam = {
             image: praveen,
             about: "Statistician",
             email: "",
-            linkedin: ""
+            linkedin: "https://www.linkedin.com/in/praveenraj-c-748715129/"
         },
         {
             name: "Hasan Shaikh",
@@ -128,7 +128,7 @@ export const mainTeam = {
 export const clinicalTeam = {
     group: "Clinical Team",
     subTeam: [{
-            title: "Head and Neck Cancer & Lung Cancer",
+            title: "Head, Neck & Thoracic Cancer Studies",
             members: [{
                     name: "Dr Rajesh I",
                     about: "",
@@ -196,7 +196,7 @@ export const clinicalTeam = {
             ]
         },
         {
-            title: "Rectal Cancer",
+            title: "Rectal Cancer Studies",
             members: [{
                     name: "Dr Thomas Samuel",
                     about: "",
@@ -228,7 +228,7 @@ export const clinicalTeam = {
             ]
         },
         {
-            title: "Pituitary Adenomas",
+            title: "Pituitary Adenomas Studies",
             members: [{
                     name: "Dr Ari Chacko",
                     about: "",
