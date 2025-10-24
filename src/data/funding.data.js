@@ -2,7 +2,7 @@ import idair from "../assets/funding/idair.png";
 import cmc from "../assets/funding/cmc.png";
 // import wellcome from "../assets/funding/wellcome_w.png";
 import wellcome from "../assets/funding/wellcome_r.png";
-import varian from "../assets/funding/varian.jpg";
+import varian from "../assets/funding/varian.jpeg";
 import icmr from "../assets/funding/icmr.png";
 
 export const fundingData = [
