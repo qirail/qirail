@@ -28,6 +28,8 @@ import anjana from "../assets/team/anjana.jpeg";
 import praveen from "../assets/team/praveen.png";
 import hassan from "../assets/team/hassan.jpeg";
 import avatar2 from "../assets/team/qirail_logo.png";
+import axa from "../assets/team/Axa.jpeg";
+import viji from "../assets/team/Viji.jpeg";
 
 
 
@@ -96,7 +98,7 @@ export const mainTeam = {
         },
         {
             name: "Hasan Shaikh",
-            designation: "Project Assistant",
+            designation: "Clinical Data Manager",
             department: "Radiation Oncology",
             image: hassan,
             about: "Software Engineer",
@@ -108,15 +110,15 @@ export const mainTeam = {
             designation: "Clinical Psychologist",
             department: "Radiation Oncology",
             // about: ""
-            image: avatar2,
+            image: axa,
             email: "",
             linkedin: "https://www.linkedin.com/in/achsah-christine/",
         },
         {
             name: "Vijay Shree G",
-            designation: "Social Worker",
+            designation: "Clinical Sociologist",
             department: "Radiation Oncology",
-            image: avatar2,
+            image: viji,
             // about: "",
             email: "",
             linkedin: ""
