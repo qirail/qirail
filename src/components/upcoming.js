@@ -1,5 +1,5 @@
 import React from 'react'
-import workshop from "../assets/Events/workshop on radiomics.jpeg";
+import workshop from "../assets/Events/Radiomics_Workshop_Flyer_Schedule.pdf";
 import HNCA from "../assets/Events/HNCS brochure and reg.pdf";
 
 const Upcoming = () => {
