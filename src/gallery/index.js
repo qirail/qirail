@@ -91,7 +91,7 @@ const Gallery = () => {
 				{itemData1.map((item) => (
           <div className="relative group">
 					<img alt="" className="mb-5" src={item.img} />
-          <div className="absolute top-2 right-2 font-medium text-gray-900 bg-gray-300 px-2 py-1 rounded">{item.title}</div>
+          <div className="absolute top-2 right-2 text-xs sm:text-sm invisible group-hover:visible text-gray-900 bg-gray-300 bg-opacity-90 px-2 py-1 rounded max-w-[calc(100%-1rem)] break-words">{item.title}</div>
           </div>
 				))}
 			</div>
@@ -99,7 +99,7 @@ const Gallery = () => {
       <div className="container p-5 pb-0 mx-auto">
       <div className="relative group">
         <img alt="" className="" src={Workshop} />
-        <div className="absolute bottom-2 left-2 font-medium text-gray-900 bg-gray-300 px-2 py-1 rounded">1st Workshop on Radiomics and Auto Segmentation 2025.</div>
+        <div className="absolute bottom-2 left-2 text-xs sm:text-sm md:text-base text-gray-900 bg-gray-300 bg-opacity-90 px-2 py-1 rounded max-w-[calc(100%-1rem)] break-words">1st Workshop on Radiomics and Auto Segmentation 2025.</div>
       </div>
       </div>
 
@@ -107,7 +107,7 @@ const Gallery = () => {
 				{itemData.map((item) => (
           <div className="relative group">
 					<img alt="" className="mb-5" src={item.img} />
-          <div className="absolute top-2 right-2 font-medium text-gray-900 bg-gray-300 px-2 py-1 rounded">{item.title}</div>
+          <div className="absolute top-2 right-2 text-xs sm:text-sm invisible group-hover:visible text-gray-900 bg-gray-300 bg-opacity-90 px-2 py-1 rounded max-w-[calc(100%-1rem)] break-words">{item.title}</div>
           </div>
 				))}
 			</div>
@@ -115,7 +115,7 @@ const Gallery = () => {
       <div className="container p-5 pb-0 mx-auto">
       <div className="relative group">
         <img alt="" className="" src={maastro1} />
-        <div className="absolute bottom-2 left-2 font-medium text-gray-900 bg-gray-300 px-2 py-1 rounded">When the MAASTRO team (Dr. Andre Dekker and Dr. Leonard Wee) visited us.</div>
+        <div className="absolute bottom-2 left-2 text-xs sm:text-sm md:text-base text-gray-900 bg-gray-300 bg-opacity-90 px-2 py-1 rounded max-w-[calc(100%-1rem)] break-words">When the MAASTRO team (Dr. Andre Dekker and Dr. Leonard Wee) visited us.</div>
       </div>
       </div>
 		</section>
