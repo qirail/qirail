@@ -27,7 +27,7 @@ import timothy from "../assets/team/timothy.JPG";
 import anjana from "../assets/team/anjana.jpeg";
 import praveen from "../assets/team/praveen.jpg";
 import hassan from "../assets/team/hassan.jpeg";
-// import avatar2 from "../assets/team/qirail_logo.png";
+import avatar2 from "../assets/team/qirail_logo.png";
 import axa from "../assets/team/Axa.jpeg";
 import viji from "../assets/team/Viji.jpeg";
 
@@ -122,8 +122,16 @@ export const mainTeam = {
             // about: "",
             email: "",
             linkedin: ""
-        }
-        
+        },
+        {
+            name: "Dr Glynis Florence Francis",
+            designation: "",
+            department: "Head & Neck Surgery",
+            image: avatar2,
+            // about: "",
+            email: "",
+            linkedin: ""
+        }        
     ],
 };
 

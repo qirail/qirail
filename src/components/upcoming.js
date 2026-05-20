@@ -1,19 +1,32 @@
 import React from 'react'
 import workshop from "../assets/Events/Radiomics_Workshop_Flyer_Schedule.pdf";
 import HNCA from "../assets/Events/HNCS brochure and reg.pdf";
+import fed_event from "../assets/Events/Federated Learning Event.jpg";
+
 
 const Upcoming = () => {
   const events = [
     {
       type: 'upcoming',
-      date: 'NOV',
-      day: '14-15',
-      year: '2025',
-      title: 'Workshop on Radiomics and Auto Segmentation',
+      date: '-',
+      day: 'TBA',
+      year: '2026',
+      title: 'Workshop Series: Hands-on Radiomics and Auto Segmentation',
       description: 'A two-day workshop introducing clinicians, medical physicists and imaging researchers to radiomics and autosegmentation with emphasis on practical implementation. Includes hands-on sessions using accessible tools for image segmentation, radiomics feature extraction, and machine learning model building.',
       location: 'Radiation Oncology, CMC Vellore, Ranipet Campus',
       time: '9:00 AM to 4:30 PM',
       link: workshop
+    },
+    {
+      type: 'past',
+      date: 'APR',
+      day: '22',
+      year: '2026',
+      title: 'Introduction to Federated Learning: The Personal Health Train Approach',
+      description: 'Introducing clinicians, researchers, and data scientists to federated learning and its applications in healthcare, with a focus on privacy-preserving AI. Covers foundational concepts of federated learning, real-world case studies in oncology and beyond — designed to be accessible to both technical and non-technical audiences.',
+      location: 'Radiation Oncology, CMC Vellore, Ranipet Campus',
+      time: '9:00 AM to 2:00 PM',
+      link: fed_event
     },
     {
       type: 'past',
