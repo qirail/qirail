@@ -11,8 +11,8 @@ const Publications = () => {
 
             <div 
               key={item.num} 
-              className="group rounded-xl flex flex-col md:flex-row items-center p-2 bg-gray-900 text-gray-100 space-y-3 space-x-3 border border-gray-900 hover:border-violet-400 hover:shadow-[0_10px_30px_rgba(167,139,250,0.3)] hover:-translate-y-3 transition-all duration-300"
-            >
+              // className="group rounded-xl flex flex-col md:flex-row items-center p-2 bg-gray-900 text-gray-100 space-y-3 space-x-3 border border-gray-900 hover:border-violet-400 hover:shadow-[0_10px_30px_rgba(167,139,250,0.3)] hover:-translate-y-3 transition-all duration-300"
+              className="group rounded-xl flex flex-col md:flex-row items-center p-2 bg-gray-900 text-gray-100 space-y-3 space-x-3 border border-gray-900 hover:border-violet-400 hover:shadow-[inset_0_0_50px_rgba(167,139,250,0.9),0_10px_30px_rgba(167,139,250,0.9)] hover:-translate-y-3 transition-all duration-300">
               <img src={item.thumbnail} alt="" className="rounded dark:bg-gray-500 flex-shrink-0 w-24 mb-0" />
               <div className="flex flex-col justify-between">
                 <div className="space-y-2">

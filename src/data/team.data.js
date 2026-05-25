@@ -27,10 +27,10 @@ import timothy from "../assets/team/timothy.JPG";
 import anjana from "../assets/team/anjana.jpeg";
 import praveen from "../assets/team/praveen.jpg";
 import hassan from "../assets/team/hassan.jpeg";
-// import avatar2 from "../assets/team/qirail_logo.png";
+import avatar2 from "../assets/team/qirail_logo.png";
 import axa from "../assets/team/Axa.jpeg";
 import viji from "../assets/team/Viji.jpeg";
-
+import benny from "../assets/team/benny.jpeg";
 
 
 export const mainTeam = {
@@ -41,7 +41,7 @@ export const mainTeam = {
             department: "Radiation Oncology",
             image: simon,
             about: "Professor",
-            email: "",
+            email: "simon@cmcvellore.ac.in",
             linkedin: "https://www.linkedin.com/in/simon-pavamani-467b9869/"
         },
         {
@@ -50,15 +50,16 @@ export const mainTeam = {
             department: "Radiation Oncology",
             image: balu,
             about: "Professor",
-            email: "",
+            email: "balunair@cmcvellore.ac.in",
             linkedin: "https://www.linkedin.com/in/balukrishna-s/"
         },
         {
             name: "Dr Hannah Mary Thomas T",
             designation: "Research Team Lead",
-            department: "Radiation Oncology",
+            department: "Biomedical Informatics Unit",
             image: hannah,
             about: "Imaging Scientist",
+            email: "hannah.thomas@cmcvellore.ac.in",
             linkedin: "https://www.linkedin.com/in/hannah-mary-thomas-t-838a0113/"
         },
         {
@@ -67,16 +68,34 @@ export const mainTeam = {
             department: "Nuclear Medicine",
             image: devakumar,
             about: "Professor",
-            email: "",
+            email: "devakumar@cmcvellore.ac.in",
             linkedin: "https://www.linkedin.com/in/devakumar-devadhas-459b3019/?originalSubdomain=in"
         },
         {
+            name: "Dr Benny Kuchipudi",
+            designation: "Research Associate",
+            department: "",
+            image: benny,
+            about: "Assistant Professor",
+            email: "rajendra.bennyk@cmcvellore.ac.in",
+            linkedin: "https://www.linkedin.com/in/benny-kuchipudi-18404aba/"
+        },
+        {
+            name: "Dr Jino Victor Wilson",
+            designation: "",
+            department: "Radiation Oncology",
+            image: avatar2,
+            about: "Assistant Professor",
+            email: "jino.victor@cmcvellore.ac.in",
+            linkedin: ""
+        },
+        {
             name: "Sathya A",
-            designation: "Research Coordinator",
+            designation: "Research Associate",
             department: "Radiation Oncology",
             image: sathya2,
             about: "Biomedical Engineer",
-            email: "sathya.a.inst@cmcvellore.ac.in",
+            email: "sathya.a2018@vitalum.ac.in",
             linkedin: "https://www.linkedin.com/in/sathya-a-christopher/"
         },
         {
@@ -89,8 +108,8 @@ export const mainTeam = {
         },
         {
             name: "Praveenraj C",
-            designation: "Project Technical Fellow",
-            department: "Head and Neck Surgery, Unit 2",
+            designation: "Research Associate",
+            department: "Biomedical Informatics Unit",
             image: praveen,
             about: "Statistician",
             email: "",
@@ -122,8 +141,16 @@ export const mainTeam = {
             // about: "",
             email: "",
             linkedin: ""
-        }
-        
+        },
+        {
+            name: "Dr Glynis Florence Francis",
+            designation: "",
+            department: "Head & Neck Surgery",
+            image: avatar2,
+            // about: "",
+            email: "",
+            linkedin: ""
+        }        
     ],
 };
 

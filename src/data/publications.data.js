@@ -1,4 +1,9 @@
 import redj from "../assets/publications/redj.jpg";
+import jmp from "../assets/publications/JMP.jpg";
+import estro25 from "../assets/publications/estro2025.jpg";
+import mdpid from "../assets/publications/mdpidiagnostics.png";
+import mdpiap from "../assets/publications/mdpiappliedscience.png";
+
 // add items in the list
 export const publications =[
     {
@@ -7,7 +12,7 @@ export const publications =[
         authors:"Devakumar, D., Sunny, G., Sasidharan, B. K., Bowen, S. R., Nadaraj, A., Jeyseelan, L., Mathew, M., Irodi, A., Isiah, R., Pavamani, S., John, S., & T Thomas, H. M.",
         journal:"Journal of Medical Physics",
         link:"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8491314/",
-        thumbnail: "https://images.journals.lww.com/jomp/LargeRollover.00660230-202504000-00000.CV.jpeg",
+        thumbnail: jmp,
         year:"2021"
     },
     {
@@ -70,9 +75,9 @@ export const publications =[
         num:9,
         title:"Reproducibility in Radiomics: A Comparison of Feature Extraction Methods and Two Independent Datasets",
         authors:"Hannah Mary T. Thomas, Helen Y. C. Wang, Amal Joseph Varghese, Ellen M. Donovan, Chris P. South, Helen Saxby, Andrew Nisbet, Vineet Prakash, Balu Krishna Sasidharan, Simon Pradeep Pavamani, Devakumar D., Manu Mathew, Rajesh Gunasingam Isiah and Philip M. Evans",
-        journal:"Applied Sciences",
+        journal:"MDPI Applied Sciences",
         link:"https://www.mdpi.com/2076-3417/13/12/7291",
-        thumbnail:"https://pub.mdpi-res.com/img/journals/applsci-logo.png?8600e93ff98dbf14",
+        thumbnail:mdpiap,
         year:"2023"
     },
     // {
@@ -124,6 +129,24 @@ export const publications =[
         link:"https://www.redjournal.org/article/S0360-3016(25)03906-9/fulltext",
         thumbnail:redj,
         year:"2025"
+    },
+    {
+        num:14,
+        title:"Gross Tumour Volume segmentation by federated deep learning using real-world data of 3500+ lung cancer patients from 20 institutions in10 countries",
+        authors:"Leroy Volmer, Ananya Choudhury, Johan van Soest, Andre Dekker, Diogo FDC Patrao, Bram Steiltjes, Emiliano Spezi, Rajesh Jena, Gareth Price, Hannah M Thomas, Zhen Zhang, Robin Wijsman, Andrea Damiani, Rogier Janssen, Brent Van der Heyden, John Lilley, Thomas J Dilling, Abdul Nazeer, Tomas Janssen, Per Ivar Lønne, René Monshouwer, Ying Xiao, Stephanie Tanadini-Lang, Leonard Wee",
+        journal:"European Society for Radiotherapy and Oncology",
+        link:"https://user-swndwmf.cld.bz/ESTRO-2025-Abstract-Book/2554/",
+        thumbnail:estro25,
+        year:"2025"
+    },
+    {
+        num:15,
+        title:"Decoding Uncertainty Quantification for Oncology—An Illustration Using Radiomics",
+        authors:"Florian van Daalen, Balu Krishna Sasidharan, C Praveenraj, Amal Joseph Varghese, Andre Dekker, Leonard Wee, Rianne Fijten, Aparna Irodi, Hannah Mary T Thomas",
+        journal:"MDPI Diagnostics",
+        link:"https://www.mdpi.com/2075-4418/16/5/700",
+        thumbnail:mdpid,
+        year:"2026"
     },
     // {
     //     num:13,
