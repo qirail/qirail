@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc6d1c1e.css",
-    "main.js": "/static/js/main.fa26643a.js",
+    "main.css": "/static/css/main.ed15a9ea.css",
+    "main.js": "/static/js/main.a5373b24.js",
+    "static/media/AI_Summit-Chapter.pdf": "/static/media/AI_Summit-Chapter.1219ed27bb0bb59e12dc.pdf",
+    "static/media/INDIAAI_AWARD.jpeg": "/static/media/INDIAAI_AWARD.9a76bee6a6f1eb854b84.jpeg",
     "static/media/caho.jpeg": "/static/media/caho.368157f537feb0e1626e.jpeg",
     "static/media/HNCS brochure and reg.pdf": "/static/media/HNCS brochure and reg.6381af629406432fefd1.pdf",
+    "static/media/INDIAAI.png": "/static/media/INDIAAI.964d9f8f971316529371.png",
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
+    "static/media/INDIAAI-NCG.png": "/static/media/INDIAAI-NCG.e9a58575ce1df0f86dad.png",
     "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
     "static/media/Radiomics_Workshop_Flyer_Schedule.pdf": "/static/media/Radiomics_Workshop_Flyer_Schedule.3cf1de02e889aa3c6fb2.pdf",
     "static/media/Workshop.jpeg": "/static/media/Workshop.1c03a9b0105beb86de1b.jpeg",
@@ -47,9 +51,12 @@
     "static/media/U of Surrey.jpg": "/static/media/U of Surrey.5980822b6d2298023919.jpg",
     "static/media/geetha.jpg": "/static/media/geetha.008abdca13a63cd94843.jpg",
     "static/media/balu.jpg": "/static/media/balu.896b234a8a7117eb1702.jpg",
+    "static/media/2workshop.jpeg": "/static/media/2workshop.ca9a35040ebb2a09cbfe.jpeg",
     "static/media/abhijit.jpg": "/static/media/abhijit.6d613c11e543fe01ca3d.jpg",
     "static/media/justin.jpg": "/static/media/justin.76d7600d53e4c026a9a9.jpg",
+    "static/media/federatedlearning.jpeg": "/static/media/federatedlearning.6c500bcb9d07347480f4.jpeg",
     "static/media/sharon.jpeg": "/static/media/sharon.cc289159108a8c6e2ead.jpeg",
+    "static/media/2workshopbks.jpeg": "/static/media/2workshopbks.4d904c2c5f4cfe44ed3f.jpeg",
     "static/media/anjana.jpeg": "/static/media/anjana.ad545ecbafabe7892604.jpeg",
     "static/media/Workshop3.jpeg": "/static/media/Workshop3.3c0fa7e9063ef0d0c082.jpeg",
     "static/media/aparna.jpeg": "/static/media/aparna.f90da8f1d3fd6cd747cc.jpeg",
@@ -63,18 +70,19 @@
     "static/media/Axa.jpeg": "/static/media/Axa.3f6d36bc0e505ad362da.jpeg",
     "static/media/benny.jpeg": "/static/media/benny.63ce2a05db783fba3989.jpeg",
     "static/media/varian.jpeg": "/static/media/varian.d0ae5dc31c47fd3543f1.jpeg",
-    "static/media/wellcome_r.png": "/static/media/wellcome_r.cb76bcd1c91cef5493f4.png",
     "static/media/sathya2.jpeg": "/static/media/sathya2.f86fee18f4b2016b6c30.jpeg",
+    "static/media/wellcome_rb.png": "/static/media/wellcome_rb.01a628a3334901085ef6.png",
     "static/media/doodle.svg": "/static/media/doodle.46309f5d9cabd6ba410813c03d337e4b.svg",
     "static/media/estro2025.jpg": "/static/media/estro2025.f751b809b7ca550bfb3a.jpg",
     "static/media/U of Washington.jpg": "/static/media/U of Washington.a95e34235650e9ce87d6.jpg",
     "static/media/tmc.jpg": "/static/media/tmc.9339ee735a51eca18a3d.jpg",
+    "static/media/gly.jpeg": "/static/media/gly.190c53afca7147ae102c.jpeg",
     "index.html": "/index.html",
-    "main.bc6d1c1e.css.map": "/static/css/main.bc6d1c1e.css.map",
-    "main.fa26643a.js.map": "/static/js/main.fa26643a.js.map"
+    "main.ed15a9ea.css.map": "/static/css/main.ed15a9ea.css.map",
+    "main.a5373b24.js.map": "/static/js/main.a5373b24.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc6d1c1e.css",
-    "static/js/main.fa26643a.js"
+    "static/css/main.ed15a9ea.css",
+    "static/js/main.a5373b24.js"
   ]
 }
