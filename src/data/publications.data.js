@@ -3,6 +3,8 @@ import jmp from "../assets/publications/JMP.jpg";
 import estro25 from "../assets/publications/estro2025.jpg";
 import mdpid from "../assets/publications/mdpidiagnostics.png";
 import mdpiap from "../assets/publications/mdpiappliedscience.png";
+import ai_chapter from "../assets/publications/AI_Summit-Chapter.pdf";
+import indiaai from "../assets/publications/INDIAAI.png";
 
 // add items in the list
 export const publications =[
@@ -141,6 +143,15 @@ export const publications =[
     },
     {
         num:15,
+        title:"Blueprint for getting AI-ready data from a clinical setting",
+        authors:"Hannah Mary Thomas T, Balu Krishna S, Rajendra Benny Kuchipidi, Joy Mammen, Arun Zechariah, Thomas Samuel Ram, Simon Pradeep Pavamani",
+        journal:"India AI Summit",
+        link:ai_chapter,
+        thumbnail:indiaai,
+        year:"2026"
+    },
+    {
+        num:16,
         title:"Decoding Uncertainty Quantification for Oncology—An Illustration Using Radiomics",
         authors:"Florian van Daalen, Balu Krishna Sasidharan, C Praveenraj, Amal Joseph Varghese, Andre Dekker, Leonard Wee, Rianne Fijten, Aparna Irodi, Hannah Mary T Thomas",
         journal:"MDPI Diagnostics",

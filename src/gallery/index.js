@@ -15,18 +15,40 @@ import Workshop from "./photos/Workshop.jpeg";
 import Workshop2 from "./photos/Workshop2.jpeg";
 import Workshop3 from "./photos/Workshop3.jpeg";
 
+import n2workshop from "./photos/2workshop.jpeg";
+import workshopbks from "./photos/2workshopbks.jpeg";
+import federatedlearning from "./photos/federatedlearning.jpeg";
+import INDIAAI_AWARD from "./photos/INDIAAI_AWARD.jpeg";
+
+
 const itemData1 = [
   // {
   //   img: maastro1,
   //   title: 'maastro1',
   // },
-    {
+  {
+    img: federatedlearning,
+    title: 'Federated Learning workshop 2026',
+  },
+  {
+    img: workshopbks,
+    title: '2nd Workshop on Radiomics and Auto Segmentation 2026',
+  },
+  {
+    img: n2workshop,
+    title: '2nd Workshop on Radiomics and Auto Segmentation 2026',
+  },
+  {
+    img: INDIAAI_AWARD,
+    title: 'IndiaAI-NCG CATCH Grant for Cancer 2026',
+  },
+  {
   img: Workshop3,
-  title: '1st Workshop on Radiomics and Auto Segmentation',
+  title: '1st Workshop on Radiomics and Auto Segmentation 2025',
   },
     {
     img: Workshop2,
-    title: '1st Workshop on Radiomics and Auto Segmentation',
+    title: '1st Workshop on Radiomics and Auto Segmentation 2025',
   },
 ];
 
