@@ -4,7 +4,9 @@ function TeamCard({name, about, desig, department, src, email, linkedin }) {
     return (
         <div className="group flex flex-col justify-center w-full px-8 mx-6 my-12 text-center rounded-md md:w-96 lg:w-80 xl:w-64 dark:bg-gray-100 dark:text-gray-800">
             {/* <img alt="" className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full dark:bg-gray-500 transition-all group-hover:w-48 group-hover:h-48 after:duration-1000" src={src} /> */}
-            <img alt="" className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full dark:bg-transparent transition-all group-hover:w-48 group-hover:h-48 after:duration-1000" src={src} />
+            {/* <img alt="" className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full dark:bg-transparent transition-all group-hover:w-48 group-hover:h-48 after:duration-1000" src={src} /> */}
+            <img alt="" className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full dark:bg-transparent transition-all group-hover:w-48 group-hover:h-48 group-hover:ring-2 group-hover:ring-violet-400 group-hover:shadow-[0_0_25px_rgba(167,139,250,0.8)]" src={src} />
+
             <div className="flex-1 my-4">
                 <p className="text-xl font-semibold leading-snug text-violet-900">{name}</p>
                 <p className='text-md font-medium'>{desig}</p>

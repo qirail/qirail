@@ -8,6 +8,17 @@ const Upcoming = () => {
   const events = [
     {
       type: 'upcoming',
+      date: 'JAN',
+      day: '28-30',
+      year: '2027',
+      title: '3rd National Symposium on Health Data & Artificial Intelligence',
+      description: '3nd National Symposium on Health Data & Artificial Intelligence hosted by the Biomedical Informatics Unit. An opportunity to engage with clinicians, researchers, engineers, entrepreneurs and policy experts at the forefront of Digital Health Data and AI.',
+      location: 'Christian Medical College, Vellore',
+      time: null,
+      link: 'http://ai.cmcvellore.edu.in/'
+    },
+    {
+      type: 'upcoming',
       date: '-',
       day: 'TBA',
       year: '2026',
@@ -33,7 +44,7 @@ const Upcoming = () => {
       date: 'SEP',
       day: '12-13',
       year: '2025',
-      title: 'Head and neck Survivorship Program 2025',
+      title: 'Head and Neck Survivorship Program 2025',
       description: 'This event celebrates head and neck cancer survivors, promoting their quality of life through education, rehabilitation, psychosocial support, and community reintegration. It also features scientific sessions on multidisciplinary innovations in survivorship care.',
       location: 'CMC Vellore, Ranipet Campus',
       time: null,
@@ -90,7 +101,7 @@ const Upcoming = () => {
 
                 ${event.type === 'upcoming'
                 ? 'bg-gradient-to-r from-violet-800 to-violet-950 border-violet-400 hover:bg-violet-500/20 hover:shadow-[0_10px_30px_rgba(167,139,250,0.4)]'
-                : 'bg-gradient-to-r from-gray-900 to-gray-950 border-gray-700 hover:bg-gray-900 hover:border-violet-400 hover:shadow-[0_10px_30px_rgba(167,139,250,0.3)]'
+                : 'bg-gradient-to-r from-gray-900 to-gray-950 border-gray-700 hover:bg-gray-900 hover:border-violet-400 hover:shadow-[inset_0_0_20px_rgba(167,139,250,0.9),0_10px_30px_rgba(167,139,250,0.9)]'
                 }
                 
                 hover:translate-x-1

@@ -20,6 +20,7 @@ export const alumniData = [
         designation: "Project Assistant",
         from: "Radiation Oncology",
         image: amal,
+        linkedin: "https://www.linkedin.com/in/amaljova/"
     },
     {
         name: "Sharon Gikku George",
@@ -32,7 +33,8 @@ export const alumniData = [
         name: 'Ramya Vepuri',
         designation: 'Project Assistant',
         from: 'Radiation Oncology',
-        image: avatar2
+        image: avatar2,
+        linkedin: "https://www.linkedin.com/in/ramya-sree-vepuri-811a81169/"
     },
     {
         name: 'Arathy Roy',
