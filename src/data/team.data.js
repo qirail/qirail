@@ -31,6 +31,7 @@ import avatar2 from "../assets/team/qirail_logo.png";
 import axa from "../assets/team/Axa.jpeg";
 import viji from "../assets/team/Viji.jpeg";
 import benny from "../assets/team/benny.jpeg";
+import gly from "../assets/team/gly.jpeg";
 
 
 export const mainTeam = {
@@ -146,7 +147,7 @@ export const mainTeam = {
             name: "Dr Glynis Florence Francis",
             designation: "",
             department: "Head & Neck Surgery",
-            image: avatar2,
+            image: gly,
             // about: "",
             email: "",
             linkedin: ""
