@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed15a9ea.css",
-    "main.js": "/static/js/main.a5373b24.js",
+    "main.js": "/static/js/main.8d2bc2cf.js",
     "static/media/AI_Summit-Chapter.pdf": "/static/media/AI_Summit-Chapter.1219ed27bb0bb59e12dc.pdf",
     "static/media/INDIAAI_AWARD.jpeg": "/static/media/INDIAAI_AWARD.9a76bee6a6f1eb854b84.jpeg",
     "static/media/caho.jpeg": "/static/media/caho.368157f537feb0e1626e.jpeg",
@@ -10,7 +10,7 @@
     "static/media/sagital.gif": "/static/media/sagital.c243ede27e86bde6d2a1.gif",
     "static/media/INDIAAI-NCG.png": "/static/media/INDIAAI-NCG.e9a58575ce1df0f86dad.png",
     "static/media/outing.jpeg": "/static/media/outing.07e1a28b4147a9008a8a.jpeg",
-    "static/media/Radiomics_Workshop_Flyer_Schedule.pdf": "/static/media/Radiomics_Workshop_Flyer_Schedule.3cf1de02e889aa3c6fb2.pdf",
+    "static/media/3rd Radiomics workshop flyer_.png": "/static/media/3rd Radiomics workshop flyer_.6267d5036bae4ea33ce6.png",
     "static/media/Workshop.jpeg": "/static/media/Workshop.1c03a9b0105beb86de1b.jpeg",
     "static/media/praveen.jpg": "/static/media/praveen.f197a41449aaaa6e29df.jpg",
     "static/media/rt1.jpg": "/static/media/rt1.28eff4e70cad45721820.jpg",
@@ -23,6 +23,7 @@
     "static/media/cdac.jpg": "/static/media/cdac.e6884ee138d6017e865b.jpg",
     "static/media/mdpidiagnostics.png": "/static/media/mdpidiagnostics.9fe7d07889df0d7406a8.png",
     "static/media/maastro1.jpeg": "/static/media/maastro1.245f39549986d504a421.jpeg",
+    "static/media/Axa.jpeg": "/static/media/Axa.fba1f576ff4e09c55a69.jpeg",
     "static/media/rajesh.png": "/static/media/rajesh.b2718867c0599aa3bc4c.png",
     "static/media/rt2.jpeg": "/static/media/rt2.a86b2a91c6d76f998d30.jpeg",
     "static/media/neenu.jpg": "/static/media/neenu.ab02d756da2f6849081b.jpg",
@@ -60,14 +61,15 @@
     "static/media/anjana.jpeg": "/static/media/anjana.ad545ecbafabe7892604.jpeg",
     "static/media/Workshop3.jpeg": "/static/media/Workshop3.3c0fa7e9063ef0d0c082.jpeg",
     "static/media/aparna.jpeg": "/static/media/aparna.f90da8f1d3fd6cd747cc.jpeg",
+    "static/media/gly.jpeg": "/static/media/gly.5d06a60eed06233425c0.jpeg",
     "static/media/JMP.jpg": "/static/media/JMP.53052bb4d582763fdf0a.jpg",
     "static/media/Viji.jpeg": "/static/media/Viji.1f66c1a13056af904fe8.jpeg",
     "static/media/amal.jpg": "/static/media/amal.f3b8fd90f303b1c134c9.jpg",
+    "static/media/jino.jpeg": "/static/media/jino.6412bbb30230ad6a5db8.jpeg",
     "static/media/joy.jpg": "/static/media/joy.d29b48c68b2d75c59f80.jpg",
     "static/media/idair.png": "/static/media/idair.367ca654b1bfc60f28fe.png",
     "static/media/icmr.png": "/static/media/icmr.e3072070fa5ed1068176.png",
     "static/media/nitk.svg": "/static/media/nitk.c5439c16fdbed66ca98f6d1624450c26.svg",
-    "static/media/Axa.jpeg": "/static/media/Axa.3f6d36bc0e505ad362da.jpeg",
     "static/media/benny.jpeg": "/static/media/benny.63ce2a05db783fba3989.jpeg",
     "static/media/varian.jpeg": "/static/media/varian.d0ae5dc31c47fd3543f1.jpeg",
     "static/media/sathya2.jpeg": "/static/media/sathya2.f86fee18f4b2016b6c30.jpeg",
@@ -76,13 +78,12 @@
     "static/media/estro2025.jpg": "/static/media/estro2025.f751b809b7ca550bfb3a.jpg",
     "static/media/U of Washington.jpg": "/static/media/U of Washington.a95e34235650e9ce87d6.jpg",
     "static/media/tmc.jpg": "/static/media/tmc.9339ee735a51eca18a3d.jpg",
-    "static/media/gly.jpeg": "/static/media/gly.190c53afca7147ae102c.jpeg",
     "index.html": "/index.html",
     "main.ed15a9ea.css.map": "/static/css/main.ed15a9ea.css.map",
-    "main.a5373b24.js.map": "/static/js/main.a5373b24.js.map"
+    "main.8d2bc2cf.js.map": "/static/js/main.8d2bc2cf.js.map"
   },
   "entrypoints": [
     "static/css/main.ed15a9ea.css",
-    "static/js/main.a5373b24.js"
+    "static/js/main.8d2bc2cf.js"
   ]
 }
