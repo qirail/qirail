@@ -3,12 +3,21 @@
 // import avatar from "../assets/team/avatar.png";
 import avatar2 from "../assets/team/qirail_logo.png";
 
-
+import viji from "../assets/team/Viji.jpeg";
 import amal from "../assets/team/amal.jpg";
 import julia from "../assets/team/julia.jpeg";
 import sharon from "../assets/team/sharon.jpeg";
 
 export const alumniData = [
+    {
+        name: "Vijay Shree G",
+        designation: "Clinical Sociologist",
+        department: "Radiation Oncology",
+        image: viji,
+        // about: "",
+        email: "",
+        linkedin: ""
+    },
     {
         name: "Dr Julia Priyadarshini Rao",
         designation: 'Clinical Research Fellow',

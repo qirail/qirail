@@ -1,5 +1,5 @@
 import React from 'react'
-import workshop from "../assets/Events/Radiomics_Workshop_Flyer_Schedule.pdf";
+import workshop from "../assets/Events/3rd Radiomics workshop flyer_.png";
 import HNCA from "../assets/Events/HNCS brochure and reg.pdf";
 import fed_event from "../assets/Events/Federated Learning Event.jpg";
 
@@ -19,8 +19,8 @@ const Upcoming = () => {
     },
     {
       type: 'upcoming',
-      date: '-',
-      day: 'TBA',
+      date: 'SEP',
+      day: '18-19',
       year: '2026',
       title: 'Workshop Series: Hands-on Radiomics and Auto Segmentation',
       description: 'A two-day workshop introducing clinicians, medical physicists and imaging researchers to radiomics and autosegmentation with emphasis on practical implementation. Includes hands-on sessions using accessible tools for image segmentation, radiomics feature extraction, and machine learning model building.',
