@@ -9,8 +9,8 @@ import CATCH from "../assets/funding/INDIAAI-NCG.png";
 
 export const fundingData = [
     {
-        "title": "IndiaAI-NCG CATCH Grant for Cancer 2026",
-        "image": CATCH,
+        "title": "Fluid Research Major Grant 2021-22",
+        "image": cmc,
     },
     {
         "title": "Early Career Fellowship 2020-24",
@@ -21,15 +21,15 @@ export const fundingData = [
         "image": idair,
     },
     {
-        "title": "Fluid Research Major Grant 2021-22",
-        "image": cmc,
-    },
-    {
         "title": "",
         "image": varian,
     },
     {
-        "title": "",
+        "title": "IndiaAI-NCG CATCH Grant for Cancer 2026",
+        "image": CATCH,
+    },
+    {
+        "title": "CMC-CDAC joint Grant 2024-27",
         "image": icmr,
     },
 ]

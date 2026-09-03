@@ -29,9 +29,9 @@ import praveen from "../assets/team/praveen.jpg";
 import hassan from "../assets/team/hassan.jpeg";
 import avatar2 from "../assets/team/qirail_logo.png";
 import axa from "../assets/team/Axa.jpeg";
-import viji from "../assets/team/Viji.jpeg";
 import benny from "../assets/team/benny.jpeg";
 import gly from "../assets/team/gly.jpeg";
+import jino from "../assets/team/jino.jpeg";
 
 
 export const mainTeam = {
@@ -57,7 +57,7 @@ export const mainTeam = {
         {
             name: "Dr Hannah Mary Thomas T",
             designation: "Research Team Lead",
-            department: "Biomedical Informatics Unit",
+            department: "Biomedical Informatics Unit (BMIU)",
             image: hannah,
             about: "Imaging Scientist",
             email: "hannah.thomas@cmcvellore.ac.in",
@@ -74,8 +74,8 @@ export const mainTeam = {
         },
         {
             name: "Dr Benny Kuchipudi",
-            designation: "Research Associate",
-            department: "",
+            designation: "",
+            department: "Radiation Oncology",
             image: benny,
             about: "Assistant Professor",
             email: "rajendra.bennyk@cmcvellore.ac.in",
@@ -85,7 +85,7 @@ export const mainTeam = {
             name: "Dr Jino Victor Wilson",
             designation: "",
             department: "Radiation Oncology",
-            image: avatar2,
+            image: jino,
             about: "Assistant Professor",
             email: "jino.victor@cmcvellore.ac.in",
             linkedin: ""
@@ -93,7 +93,7 @@ export const mainTeam = {
         {
             name: "Sathya A",
             designation: "Research Associate",
-            department: "Radiation Oncology",
+            department: "Radiation Oncology | BMIU",
             image: sathya2,
             about: "Biomedical Engineer",
             email: "sathya.a2018@vitalum.ac.in",
@@ -101,16 +101,16 @@ export const mainTeam = {
         },
         {
             name: "Anjana Chandran",
-            designation: "Research Coordinator",
+            designation: "Consultant Nutritionist",
             department: "Radiation Oncology",
             image: anjana,
-            about: "Consultant Nutritionist",
+            about: "Research Coordinator",
             linkedin: "https://www.linkedin.com/in/anjana-chandran-989414236/"
         },
         {
             name: "Praveenraj C",
             designation: "Research Associate",
-            department: "Biomedical Informatics Unit",
+            department: "Biomedical Informatics Unit (BMIU)",
             image: praveen,
             about: "Statistician",
             email: "",
@@ -135,15 +135,6 @@ export const mainTeam = {
             linkedin: "https://www.linkedin.com/in/achsah-christine/",
         },
         {
-            name: "Vijay Shree G",
-            designation: "Clinical Sociologist",
-            department: "Radiation Oncology",
-            image: viji,
-            // about: "",
-            email: "",
-            linkedin: ""
-        },
-        {
             name: "Dr Glynis Florence Francis",
             designation: "",
             department: "Head & Neck Surgery",
@@ -151,7 +142,34 @@ export const mainTeam = {
             // about: "",
             email: "",
             linkedin: ""
-        }        
+        },
+        {
+            name: "Dr Shobana",
+            designation: "Consultant Nutritionist",
+            department: "Radiation Oncology",
+            image: avatar2,
+            // about: "",
+            email: "manjusha.mammen.inst@cmcvellore.ac.in",
+            linkedin: ""
+        },
+        {
+            name: "Shamol Benny",
+            designation: "Consultant Nutritionist",
+            department: "Radiation Oncology",
+            image: avatar2,
+            // about: "",
+            email: "shamol.benny.inst@cmcvellore.ac.in",
+            linkedin: "https://www.linkedin.com/in/shamol-benny-94a6a1344/"
+        },
+        {
+            name: "Manjusha Sharon",
+            designation: "Clinical Sociologist",
+            department: "Radiation Oncology",
+            image: avatar2,
+            // about: "",
+            email: "manjusha.mammen.inst@cmcvellore.ac.in",
+            linkedin: ""
+        },
     ],
 };
 
