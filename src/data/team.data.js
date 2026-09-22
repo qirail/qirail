@@ -32,6 +32,9 @@ import axa from "../assets/team/Axa.jpeg";
 import benny from "../assets/team/benny.jpeg";
 import gly from "../assets/team/gly.jpeg";
 import jino from "../assets/team/jino.jpeg";
+import sho from "../assets/team/shobana.jpeg";
+import kuttysha from "../assets/team/kuttysha.jpeg";
+import sasha from "../assets/team/sasha.jpeg";
 
 
 export const mainTeam = {
@@ -136,7 +139,7 @@ export const mainTeam = {
         },
         {
             name: "Dr Glynis Florence Francis",
-            designation: "",
+            designation: "Surgical Resident",
             department: "Head & Neck Surgery",
             image: gly,
             // about: "",
@@ -147,7 +150,7 @@ export const mainTeam = {
             name: "Dr Shobana",
             designation: "Consultant Nutritionist",
             department: "Radiation Oncology",
-            image: avatar2,
+            image: sho,
             // about: "",
             email: "manjusha.mammen.inst@cmcvellore.ac.in",
             linkedin: ""
@@ -156,7 +159,7 @@ export const mainTeam = {
             name: "Shamol Benny",
             designation: "Consultant Nutritionist",
             department: "Radiation Oncology",
-            image: avatar2,
+            image: sasha,
             // about: "",
             email: "shamol.benny.inst@cmcvellore.ac.in",
             linkedin: "https://www.linkedin.com/in/shamol-benny-94a6a1344/"
@@ -165,7 +168,7 @@ export const mainTeam = {
             name: "Manjusha Sharon",
             designation: "Clinical Sociologist",
             department: "Radiation Oncology",
-            image: avatar2,
+            image: kuttysha,
             // about: "",
             email: "manjusha.mammen.inst@cmcvellore.ac.in",
             linkedin: ""
